@@ -22,6 +22,7 @@ To improve problem-solving and data structures & algorithms skills.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Valartamizh/Leetcode_Problems/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
+| [2574-left-and-right-sum-differences](https://github.com/Valartamizh/Leetcode_Problems/tree/main/2574-left-and-right-sum-differences/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -30,4 +31,8 @@ To improve problem-solving and data structures & algorithms skills.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Valartamizh/Leetcode_Problems/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2574-left-and-right-sum-differences](https://github.com/Valartamizh/Leetcode_Problems/tree/main/2574-left-and-right-sum-differences/) | Easy |
 <!---LeetCode Topics End-->
