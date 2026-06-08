@@ -15,3 +15,19 @@ This repository contains my solutions to LeetCode problems.
 
 ## Goal
 To improve problem-solving and data structures & algorithms skills.
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2161-partition-array-according-to-given-pivot](https://github.com/Valartamizh/Leetcode_Problems/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2161-partition-array-according-to-given-pivot](https://github.com/Valartamizh/Leetcode_Problems/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2161-partition-array-according-to-given-pivot](https://github.com/Valartamizh/Leetcode_Problems/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
+<!---LeetCode Topics End-->
