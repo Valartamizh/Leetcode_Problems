@@ -34,6 +34,7 @@ To improve problem-solving and data structures & algorithms skills.
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1603-design-parking-system](https://github.com/Valartamizh/Leetcode_Problems/tree/main/1603-design-parking-system/) | Easy |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Valartamizh/Leetcode_Problems/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
@@ -68,4 +69,12 @@ To improve problem-solving and data structures & algorithms skills.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3691-maximum-total-subarray-value-ii](https://github.com/Valartamizh/Leetcode_Problems/tree/main/3691-maximum-total-subarray-value-ii/) | Hard |
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1603-design-parking-system](https://github.com/Valartamizh/Leetcode_Problems/tree/main/1603-design-parking-system/) | Easy |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1603-design-parking-system](https://github.com/Valartamizh/Leetcode_Problems/tree/main/1603-design-parking-system/) | Easy |
 <!---LeetCode Topics End-->
