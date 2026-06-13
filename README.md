@@ -28,6 +28,7 @@ To improve problem-solving and data structures & algorithms skills.
 | [3689-maximum-total-subarray-value-i](https://github.com/Valartamizh/Leetcode_Problems/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
 | [3691-maximum-total-subarray-value-ii](https://github.com/Valartamizh/Leetcode_Problems/tree/main/3691-maximum-total-subarray-value-ii/) | Hard |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/Valartamizh/Leetcode_Problems/tree/main/3712-sum-of-elements-with-frequency-divisible-by-k/) | Easy |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Valartamizh/Leetcode_Problems/tree/main/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
 | [3838-weighted-word-mapping](https://github.com/Valartamizh/Leetcode_Problems/tree/main/3838-weighted-word-mapping/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -89,4 +90,8 @@ To improve problem-solving and data structures & algorithms skills.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2475-number-of-unequal-triplets-in-array](https://github.com/Valartamizh/Leetcode_Problems/tree/main/2475-number-of-unequal-triplets-in-array/) | Easy |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Valartamizh/Leetcode_Problems/tree/main/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
 <!---LeetCode Topics End-->
