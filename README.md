@@ -94,4 +94,8 @@ To improve problem-solving and data structures & algorithms skills.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Valartamizh/Leetcode_Problems/tree/main/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
+## Database
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3436-find-valid-emails](https://github.com/Valartamizh/Leetcode_Problems/tree/main/3436-find-valid-emails/) | Easy |
 <!---LeetCode Topics End-->
