@@ -34,6 +34,7 @@ To improve problem-solving and data structures & algorithms skills.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2000-reverse-prefix-of-word](https://github.com/Valartamizh/Leetcode_Problems/tree/main/2000-reverse-prefix-of-word/) | Easy |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Valartamizh/Leetcode_Problems/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Valartamizh/Leetcode_Problems/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Valartamizh/Leetcode_Problems/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 ## Simulation
@@ -104,6 +105,7 @@ To improve problem-solving and data structures & algorithms skills.
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Valartamizh/Leetcode_Problems/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Valartamizh/Leetcode_Problems/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 ## String Matching
 | Problem Name | Difficulty |
