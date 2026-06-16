@@ -42,6 +42,7 @@ To improve problem-solving and data structures & algorithms skills.
 | ------- | ------- |
 | [1603-design-parking-system](https://github.com/Valartamizh/Leetcode_Problems/tree/main/1603-design-parking-system/) | Easy |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Valartamizh/Leetcode_Problems/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
+| [3612-process-string-with-special-operations-i](https://github.com/Valartamizh/Leetcode_Problems/tree/main/3612-process-string-with-special-operations-i/) | Medium |
 | [3838-weighted-word-mapping](https://github.com/Valartamizh/Leetcode_Problems/tree/main/3838-weighted-word-mapping/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
@@ -67,6 +68,7 @@ To improve problem-solving and data structures & algorithms skills.
 | [0409-longest-palindrome](https://github.com/Valartamizh/Leetcode_Problems/tree/main/0409-longest-palindrome/) | Easy |
 | [0796-rotate-string](https://github.com/Valartamizh/Leetcode_Problems/tree/main/0796-rotate-string/) | Easy |
 | [2000-reverse-prefix-of-word](https://github.com/Valartamizh/Leetcode_Problems/tree/main/2000-reverse-prefix-of-word/) | Easy |
+| [3612-process-string-with-special-operations-i](https://github.com/Valartamizh/Leetcode_Problems/tree/main/3612-process-string-with-special-operations-i/) | Medium |
 | [3838-weighted-word-mapping](https://github.com/Valartamizh/Leetcode_Problems/tree/main/3838-weighted-word-mapping/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
