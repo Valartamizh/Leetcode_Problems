@@ -103,6 +103,7 @@ To improve problem-solving and data structures & algorithms skills.
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1280-students-and-examinations](https://github.com/Valartamizh/Leetcode_Problems/tree/main/1280-students-and-examinations/) | Easy |
 | [3436-find-valid-emails](https://github.com/Valartamizh/Leetcode_Problems/tree/main/3436-find-valid-emails/) | Easy |
 | [3465-find-products-with-valid-serial-numbers](https://github.com/Valartamizh/Leetcode_Problems/tree/main/3465-find-products-with-valid-serial-numbers/) | Easy |
 ## Linked List
