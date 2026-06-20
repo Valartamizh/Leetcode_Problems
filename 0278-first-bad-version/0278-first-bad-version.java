@@ -2,20 +2,19 @@
       boolean isBadVersion(int version); */
 
 public class Solution extends VersionControl {
-    public int firstBadVersion(int n) {        
-        int left=1;
-        int right=n;
-        int ans=-1;
-        while(left<=right){
-            int mid=left+(right-left)/2;
-            if(isBadVersion(mid)){
-                ans=mid;
-                right=mid-1;
-            }
-            else{
-                left=mid+1;
-            }
+    public int firstBadVersion(int n) {
+       int start=1;
+       int end= n;
+       
+       while(start<end){
+        int mid = start+(end-start)/2;
+        if (isBadVersion(mid)){
+            end = mid;// hum rkhenge mid ko as it is also bad
         }
-        return ans;
+        else{
+            start= mid+1;
+        }
+       } 
+       return start;
     }
 }
