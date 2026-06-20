@@ -79,6 +79,7 @@ To improve problem-solving and data structures & algorithms skills.
 | [0058-length-of-last-word](https://github.com/Valartamizh/Leetcode_Problems/tree/main/0058-length-of-last-word/) | Easy |
 | [0409-longest-palindrome](https://github.com/Valartamizh/Leetcode_Problems/tree/main/0409-longest-palindrome/) | Easy |
 | [0796-rotate-string](https://github.com/Valartamizh/Leetcode_Problems/tree/main/0796-rotate-string/) | Easy |
+| [1108-defanging-an-ip-address](https://github.com/Valartamizh/Leetcode_Problems/tree/main/1108-defanging-an-ip-address/) | Easy |
 | [2000-reverse-prefix-of-word](https://github.com/Valartamizh/Leetcode_Problems/tree/main/2000-reverse-prefix-of-word/) | Easy |
 | [3612-process-string-with-special-operations-i](https://github.com/Valartamizh/Leetcode_Problems/tree/main/3612-process-string-with-special-operations-i/) | Medium |
 | [3838-weighted-word-mapping](https://github.com/Valartamizh/Leetcode_Problems/tree/main/3838-weighted-word-mapping/) | Easy |
