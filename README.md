@@ -148,4 +148,12 @@ To improve problem-solving and data structures & algorithms skills.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/Valartamizh/Leetcode_Problems/tree/main/0232-implement-queue-using-stacks/) | Easy |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0278-first-bad-version](https://github.com/Valartamizh/Leetcode_Problems/tree/main/0278-first-bad-version/) | Easy |
+## Interactive
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0278-first-bad-version](https://github.com/Valartamizh/Leetcode_Problems/tree/main/0278-first-bad-version/) | Easy |
 <!---LeetCode Topics End-->
