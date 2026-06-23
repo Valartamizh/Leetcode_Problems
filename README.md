@@ -40,6 +40,7 @@ To improve problem-solving and data structures & algorithms skills.
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Valartamizh/Leetcode_Problems/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [2000-reverse-prefix-of-word](https://github.com/Valartamizh/Leetcode_Problems/tree/main/2000-reverse-prefix-of-word/) | Easy |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Valartamizh/Leetcode_Problems/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Valartamizh/Leetcode_Problems/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
@@ -79,6 +80,7 @@ To improve problem-solving and data structures & algorithms skills.
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Valartamizh/Leetcode_Problems/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0058-length-of-last-word](https://github.com/Valartamizh/Leetcode_Problems/tree/main/0058-length-of-last-word/) | Easy |
 | [0409-longest-palindrome](https://github.com/Valartamizh/Leetcode_Problems/tree/main/0409-longest-palindrome/) | Easy |
 | [0796-rotate-string](https://github.com/Valartamizh/Leetcode_Problems/tree/main/0796-rotate-string/) | Easy |
@@ -167,4 +169,8 @@ To improve problem-solving and data structures & algorithms skills.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1833-maximum-ice-cream-bars](https://github.com/Valartamizh/Leetcode_Problems/tree/main/1833-maximum-ice-cream-bars/) | Medium |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Valartamizh/Leetcode_Problems/tree/main/0005-longest-palindromic-substring/) | Medium |
 <!---LeetCode Topics End-->
