@@ -53,6 +53,7 @@ To improve problem-solving and data structures & algorithms skills.
 | [1920-build-array-from-permutation](https://github.com/Valartamizh/Leetcode_Problems/tree/main/1920-build-array-from-permutation/) | Easy |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Valartamizh/Leetcode_Problems/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2549-count-distinct-numbers-on-board](https://github.com/Valartamizh/Leetcode_Problems/tree/main/2549-count-distinct-numbers-on-board/) | Easy |
+| [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Valartamizh/Leetcode_Problems/tree/main/3461-check-if-digits-are-equal-in-string-after-operations-i/) | Easy |
 | [3612-process-string-with-special-operations-i](https://github.com/Valartamizh/Leetcode_Problems/tree/main/3612-process-string-with-special-operations-i/) | Medium |
 | [3838-weighted-word-mapping](https://github.com/Valartamizh/Leetcode_Problems/tree/main/3838-weighted-word-mapping/) | Easy |
 ## Prefix Sum
@@ -88,6 +89,7 @@ To improve problem-solving and data structures & algorithms skills.
 | [1189-maximum-number-of-balloons](https://github.com/Valartamizh/Leetcode_Problems/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [2000-reverse-prefix-of-word](https://github.com/Valartamizh/Leetcode_Problems/tree/main/2000-reverse-prefix-of-word/) | Easy |
 | [3258-count-substrings-that-satisfy-k-constraint-i](https://github.com/Valartamizh/Leetcode_Problems/tree/main/3258-count-substrings-that-satisfy-k-constraint-i/) | Easy |
+| [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Valartamizh/Leetcode_Problems/tree/main/3461-check-if-digits-are-equal-in-string-after-operations-i/) | Easy |
 | [3612-process-string-with-special-operations-i](https://github.com/Valartamizh/Leetcode_Problems/tree/main/3612-process-string-with-special-operations-i/) | Medium |
 | [3838-weighted-word-mapping](https://github.com/Valartamizh/Leetcode_Problems/tree/main/3838-weighted-word-mapping/) | Easy |
 ## Stack
@@ -126,6 +128,7 @@ To improve problem-solving and data structures & algorithms skills.
 | ------- | ------- |
 | [0812-largest-triangle-area](https://github.com/Valartamizh/Leetcode_Problems/tree/main/0812-largest-triangle-area/) | Easy |
 | [2549-count-distinct-numbers-on-board](https://github.com/Valartamizh/Leetcode_Problems/tree/main/2549-count-distinct-numbers-on-board/) | Easy |
+| [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Valartamizh/Leetcode_Problems/tree/main/3461-check-if-digits-are-equal-in-string-after-operations-i/) | Easy |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Valartamizh/Leetcode_Problems/tree/main/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
 ## Database
 | Problem Name | Difficulty |
@@ -178,4 +181,12 @@ To improve problem-solving and data structures & algorithms skills.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3258-count-substrings-that-satisfy-k-constraint-i](https://github.com/Valartamizh/Leetcode_Problems/tree/main/3258-count-substrings-that-satisfy-k-constraint-i/) | Easy |
+## Combinatorics
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Valartamizh/Leetcode_Problems/tree/main/3461-check-if-digits-are-equal-in-string-after-operations-i/) | Easy |
+## Number Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Valartamizh/Leetcode_Problems/tree/main/3461-check-if-digits-are-equal-in-string-after-operations-i/) | Easy |
 <!---LeetCode Topics End-->
