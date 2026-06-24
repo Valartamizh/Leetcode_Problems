@@ -1,17 +1,23 @@
 class Solution {
-    public boolean hasSameDigits(String s) {
-        int n = s.length();
-        while(s.length()>2){
-            String st = "";
-            int i = 1;
-            while(i<s.length()){          
-                int num1 = Integer.parseInt(Character.toString(s.charAt(i-1)));
-                int num2 = Integer.parseInt(Character.toString(s.charAt(i)));
-                st+=(num1+num2)%10;
-                i++;
+    public boolean hasSameDigits(String s) 
+    {
+        char arr[]=s.toCharArray();
+        int n=s.length();
+        while(n!=2)
+        {
+            for(int i=1;i<n;i++)
+            {
+                int ch1=arr[i-1]-'0';
+                int ch2=arr[i]-'0';
+                int sum=(ch1+ch2);
+                arr[i-1]=(char)(sum%10+'0');
             }
-            s=st;
-        }        
-        return s.charAt(0) == s.charAt(1);
+            n--;
+        }
+        if(arr[0]==arr[1])
+        {
+            return true;
+        }
+        return false;
     }
 }
