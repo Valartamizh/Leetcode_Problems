@@ -38,6 +38,7 @@ To improve problem-solving and data structures & algorithms skills.
 | [3691-maximum-total-subarray-value-ii](https://github.com/Valartamizh/Leetcode_Problems/tree/main/3691-maximum-total-subarray-value-ii/) | Hard |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/Valartamizh/Leetcode_Problems/tree/main/3712-sum-of-elements-with-frequency-divisible-by-k/) | Easy |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Valartamizh/Leetcode_Problems/tree/main/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Valartamizh/Leetcode_Problems/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3838-weighted-word-mapping](https://github.com/Valartamizh/Leetcode_Problems/tree/main/3838-weighted-word-mapping/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -63,6 +64,7 @@ To improve problem-solving and data structures & algorithms skills.
 | ------- | ------- |
 | [1732-find-the-highest-altitude](https://github.com/Valartamizh/Leetcode_Problems/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [2574-left-and-right-sum-differences](https://github.com/Valartamizh/Leetcode_Problems/tree/main/2574-left-and-right-sum-differences/) | Easy |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Valartamizh/Leetcode_Problems/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -80,6 +82,7 @@ To improve problem-solving and data structures & algorithms skills.
 | [2475-number-of-unequal-triplets-in-array](https://github.com/Valartamizh/Leetcode_Problems/tree/main/2475-number-of-unequal-triplets-in-array/) | Easy |
 | [2549-count-distinct-numbers-on-board](https://github.com/Valartamizh/Leetcode_Problems/tree/main/2549-count-distinct-numbers-on-board/) | Easy |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/Valartamizh/Leetcode_Problems/tree/main/3712-sum-of-elements-with-frequency-divisible-by-k/) | Easy |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Valartamizh/Leetcode_Problems/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -104,6 +107,7 @@ To improve problem-solving and data structures & algorithms skills.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3691-maximum-total-subarray-value-ii](https://github.com/Valartamizh/Leetcode_Problems/tree/main/3691-maximum-total-subarray-value-ii/) | Hard |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Valartamizh/Leetcode_Problems/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -120,6 +124,7 @@ To improve problem-solving and data structures & algorithms skills.
 | [1603-design-parking-system](https://github.com/Valartamizh/Leetcode_Problems/tree/main/1603-design-parking-system/) | Easy |
 | [2206-divide-array-into-equal-pairs](https://github.com/Valartamizh/Leetcode_Problems/tree/main/2206-divide-array-into-equal-pairs/) | Easy |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/Valartamizh/Leetcode_Problems/tree/main/3712-sum-of-elements-with-frequency-divisible-by-k/) | Easy |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Valartamizh/Leetcode_Problems/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -205,4 +210,12 @@ To improve problem-solving and data structures & algorithms skills.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0200-number-of-islands](https://github.com/Valartamizh/Leetcode_Problems/tree/main/0200-number-of-islands/) | Medium |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Valartamizh/Leetcode_Problems/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
+## Merge Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Valartamizh/Leetcode_Problems/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 <!---LeetCode Topics End-->
