@@ -25,6 +25,7 @@ To improve problem-solving and data structures & algorithms skills.
 | [0200-number-of-islands](https://github.com/Valartamizh/Leetcode_Problems/tree/main/0200-number-of-islands/) | Medium |
 | [0566-reshape-the-matrix](https://github.com/Valartamizh/Leetcode_Problems/tree/main/0566-reshape-the-matrix/) | Easy |
 | [0812-largest-triangle-area](https://github.com/Valartamizh/Leetcode_Problems/tree/main/0812-largest-triangle-area/) | Easy |
+| [0904-fruit-into-baskets](https://github.com/Valartamizh/Leetcode_Problems/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Valartamizh/Leetcode_Problems/tree/main/0961-n-repeated-element-in-size-2n-array/) | Easy |
 | [1732-find-the-highest-altitude](https://github.com/Valartamizh/Leetcode_Problems/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/Valartamizh/Leetcode_Problems/tree/main/1833-maximum-ice-cream-bars/) | Medium |
@@ -76,6 +77,7 @@ To improve problem-solving and data structures & algorithms skills.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0409-longest-palindrome](https://github.com/Valartamizh/Leetcode_Problems/tree/main/0409-longest-palindrome/) | Easy |
+| [0904-fruit-into-baskets](https://github.com/Valartamizh/Leetcode_Problems/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Valartamizh/Leetcode_Problems/tree/main/0961-n-repeated-element-in-size-2n-array/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/Valartamizh/Leetcode_Problems/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [2206-divide-array-into-equal-pairs](https://github.com/Valartamizh/Leetcode_Problems/tree/main/2206-divide-array-into-equal-pairs/) | Easy |
@@ -189,6 +191,7 @@ To improve problem-solving and data structures & algorithms skills.
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0904-fruit-into-baskets](https://github.com/Valartamizh/Leetcode_Problems/tree/main/0904-fruit-into-baskets/) | Medium |
 | [3258-count-substrings-that-satisfy-k-constraint-i](https://github.com/Valartamizh/Leetcode_Problems/tree/main/3258-count-substrings-that-satisfy-k-constraint-i/) | Easy |
 ## Combinatorics
 | Problem Name | Difficulty |
