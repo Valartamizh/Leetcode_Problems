@@ -1,32 +1,37 @@
 class Solution {
     public int maxFrequency(int[] nums, int k, int numOperations) {
-        int M = 0;
-        for (int i : nums) {
-            M = Math.max(M, i);
+     int max = 0;
+        for(int num : nums) {
+            max = Math.max(max, num);
         }
-        int[] dp = new int[M + 1];
-        int prev = 0, ans = 0;
 
-        for (int i : nums) {
-            dp[i]++;
+        int[] freq = new int[max+1];
+        for(int num : nums)
+            freq[num]++;
+
+        int windowSum = 0;
+        int maxFreq = 0;
+
+        int rightBound = Math.min(max, k);
+        for(int i=0;i<=rightBound;i++)
+            windowSum += freq[i];
+        
+        for(int target = 0;target <= max; target++) {
+
+            int countAtTarget = freq[target];
+
+            int possible = Math.min(windowSum, countAtTarget + numOperations);
+            maxFreq = Math.max(maxFreq , possible);
+
+            int left = target - k;
+            if(left >= 0)
+                windowSum -= freq[left];
+
+            int right = target + 1 + k;
+            if(right <= max)
+                windowSum += freq[right];
         }
-        int curr = 0;
-        for (int i = 0; i < k && i <= M; i++) {
-            curr += dp[i];
-        }
-        for (int i = 0; i <= M; i++) {
-            curr -= dp[i];
-            if (i + k <= M) {
-                curr += dp[i + k];
-            }
-            if (i > 0) {
-                prev += dp[i - 1];
-            }
-            if (i > k + 1) {
-                prev -= dp[i - k - 1];
-            }
-            ans = Math.max(ans, dp[i] + Math.min(numOperations, prev + curr));
-        }
-        return ans;
+
+        return maxFreq;
     }
 }
