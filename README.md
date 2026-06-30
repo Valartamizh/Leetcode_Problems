@@ -50,6 +50,7 @@ To improve problem-solving and data structures & algorithms skills.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Valartamizh/Leetcode_Problems/tree/main/0005-longest-palindromic-substring/) | Medium |
+| [1768-merge-strings-alternately](https://github.com/Valartamizh/Leetcode_Problems/tree/main/1768-merge-strings-alternately/) | Easy |
 | [2000-reverse-prefix-of-word](https://github.com/Valartamizh/Leetcode_Problems/tree/main/2000-reverse-prefix-of-word/) | Easy |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Valartamizh/Leetcode_Problems/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Valartamizh/Leetcode_Problems/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
@@ -108,6 +109,7 @@ To improve problem-solving and data structures & algorithms skills.
 | [1297-maximum-number-of-occurrences-of-a-substring](https://github.com/Valartamizh/Leetcode_Problems/tree/main/1297-maximum-number-of-occurrences-of-a-substring/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Valartamizh/Leetcode_Problems/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1763-longest-nice-substring](https://github.com/Valartamizh/Leetcode_Problems/tree/main/1763-longest-nice-substring/) | Easy |
+| [1768-merge-strings-alternately](https://github.com/Valartamizh/Leetcode_Problems/tree/main/1768-merge-strings-alternately/) | Easy |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Valartamizh/Leetcode_Problems/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [2000-reverse-prefix-of-word](https://github.com/Valartamizh/Leetcode_Problems/tree/main/2000-reverse-prefix-of-word/) | Easy |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/Valartamizh/Leetcode_Problems/tree/main/2269-find-the-k-beauty-of-a-number/) | Easy |
