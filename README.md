@@ -104,6 +104,7 @@ To improve problem-solving and data structures & algorithms skills.
 | [0058-length-of-last-word](https://github.com/Valartamizh/Leetcode_Problems/tree/main/0058-length-of-last-word/) | Easy |
 | [0409-longest-palindrome](https://github.com/Valartamizh/Leetcode_Problems/tree/main/0409-longest-palindrome/) | Easy |
 | [0796-rotate-string](https://github.com/Valartamizh/Leetcode_Problems/tree/main/0796-rotate-string/) | Easy |
+| [1071-greatest-common-divisor-of-strings](https://github.com/Valartamizh/Leetcode_Problems/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
 | [1108-defanging-an-ip-address](https://github.com/Valartamizh/Leetcode_Problems/tree/main/1108-defanging-an-ip-address/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/Valartamizh/Leetcode_Problems/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1297-maximum-number-of-occurrences-of-a-substring](https://github.com/Valartamizh/Leetcode_Problems/tree/main/1297-maximum-number-of-occurrences-of-a-substring/) | Medium |
@@ -156,6 +157,7 @@ To improve problem-solving and data structures & algorithms skills.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0812-largest-triangle-area](https://github.com/Valartamizh/Leetcode_Problems/tree/main/0812-largest-triangle-area/) | Easy |
+| [1071-greatest-common-divisor-of-strings](https://github.com/Valartamizh/Leetcode_Problems/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/Valartamizh/Leetcode_Problems/tree/main/2269-find-the-k-beauty-of-a-number/) | Easy |
 | [2549-count-distinct-numbers-on-board](https://github.com/Valartamizh/Leetcode_Problems/tree/main/2549-count-distinct-numbers-on-board/) | Easy |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Valartamizh/Leetcode_Problems/tree/main/3461-check-if-digits-are-equal-in-string-after-operations-i/) | Easy |
