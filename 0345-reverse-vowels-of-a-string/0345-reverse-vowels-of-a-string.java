@@ -1,6 +1,5 @@
 class Solution {
     public String reverseVowels(String s) {
-        // String str = "";
         StringBuilder str = new StringBuilder();
         ArrayList<Character> arr = new ArrayList<>();
         for(char c : s.toCharArray()){
@@ -16,7 +15,6 @@ class Solution {
                 j++;}
             else str.append(c);
         }
-        System.out.print(str);
         return str.toString();
     }
 }
