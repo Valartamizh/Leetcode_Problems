@@ -24,6 +24,7 @@ To improve problem-solving and data structures & algorithms skills.
 | [0120-triangle](https://github.com/Valartamizh/Leetcode_Problems/tree/main/0120-triangle/) | Medium |
 | [0200-number-of-islands](https://github.com/Valartamizh/Leetcode_Problems/tree/main/0200-number-of-islands/) | Medium |
 | [0566-reshape-the-matrix](https://github.com/Valartamizh/Leetcode_Problems/tree/main/0566-reshape-the-matrix/) | Easy |
+| [0605-can-place-flowers](https://github.com/Valartamizh/Leetcode_Problems/tree/main/0605-can-place-flowers/) | Easy |
 | [0812-largest-triangle-area](https://github.com/Valartamizh/Leetcode_Problems/tree/main/0812-largest-triangle-area/) | Easy |
 | [0904-fruit-into-baskets](https://github.com/Valartamizh/Leetcode_Problems/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Valartamizh/Leetcode_Problems/tree/main/0961-n-repeated-element-in-size-2n-array/) | Easy |
@@ -79,6 +80,7 @@ To improve problem-solving and data structures & algorithms skills.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0409-longest-palindrome](https://github.com/Valartamizh/Leetcode_Problems/tree/main/0409-longest-palindrome/) | Easy |
+| [0605-can-place-flowers](https://github.com/Valartamizh/Leetcode_Problems/tree/main/0605-can-place-flowers/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/Valartamizh/Leetcode_Problems/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Valartamizh/Leetcode_Problems/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [3689-maximum-total-subarray-value-i](https://github.com/Valartamizh/Leetcode_Problems/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
