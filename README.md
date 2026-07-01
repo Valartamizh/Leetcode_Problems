@@ -23,6 +23,7 @@ To improve problem-solving and data structures & algorithms skills.
 | ------- | ------- |
 | [0120-triangle](https://github.com/Valartamizh/Leetcode_Problems/tree/main/0120-triangle/) | Medium |
 | [0200-number-of-islands](https://github.com/Valartamizh/Leetcode_Problems/tree/main/0200-number-of-islands/) | Medium |
+| [0238-product-of-array-except-self](https://github.com/Valartamizh/Leetcode_Problems/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0566-reshape-the-matrix](https://github.com/Valartamizh/Leetcode_Problems/tree/main/0566-reshape-the-matrix/) | Easy |
 | [0605-can-place-flowers](https://github.com/Valartamizh/Leetcode_Problems/tree/main/0605-can-place-flowers/) | Easy |
 | [0812-largest-triangle-area](https://github.com/Valartamizh/Leetcode_Problems/tree/main/0812-largest-triangle-area/) | Easy |
@@ -73,6 +74,7 @@ To improve problem-solving and data structures & algorithms skills.
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0238-product-of-array-except-self](https://github.com/Valartamizh/Leetcode_Problems/tree/main/0238-product-of-array-except-self/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/Valartamizh/Leetcode_Problems/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [2574-left-and-right-sum-differences](https://github.com/Valartamizh/Leetcode_Problems/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [3346-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/Valartamizh/Leetcode_Problems/tree/main/3346-maximum-frequency-of-an-element-after-performing-operations-i/) | Medium |
