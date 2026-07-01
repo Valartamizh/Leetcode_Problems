@@ -27,6 +27,7 @@ To improve problem-solving and data structures & algorithms skills.
 | [0812-largest-triangle-area](https://github.com/Valartamizh/Leetcode_Problems/tree/main/0812-largest-triangle-area/) | Easy |
 | [0904-fruit-into-baskets](https://github.com/Valartamizh/Leetcode_Problems/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Valartamizh/Leetcode_Problems/tree/main/0961-n-repeated-element-in-size-2n-array/) | Easy |
+| [1431-kids-with-the-greatest-number-of-candies](https://github.com/Valartamizh/Leetcode_Problems/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
 | [1732-find-the-highest-altitude](https://github.com/Valartamizh/Leetcode_Problems/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/Valartamizh/Leetcode_Problems/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Valartamizh/Leetcode_Problems/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
