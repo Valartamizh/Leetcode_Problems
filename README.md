@@ -24,6 +24,7 @@ To improve problem-solving and data structures & algorithms skills.
 | [0120-triangle](https://github.com/Valartamizh/Leetcode_Problems/tree/main/0120-triangle/) | Medium |
 | [0200-number-of-islands](https://github.com/Valartamizh/Leetcode_Problems/tree/main/0200-number-of-islands/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/Valartamizh/Leetcode_Problems/tree/main/0238-product-of-array-except-self/) | Medium |
+| [0334-increasing-triplet-subsequence](https://github.com/Valartamizh/Leetcode_Problems/tree/main/0334-increasing-triplet-subsequence/) | Medium |
 | [0566-reshape-the-matrix](https://github.com/Valartamizh/Leetcode_Problems/tree/main/0566-reshape-the-matrix/) | Easy |
 | [0605-can-place-flowers](https://github.com/Valartamizh/Leetcode_Problems/tree/main/0605-can-place-flowers/) | Easy |
 | [0812-largest-triangle-area](https://github.com/Valartamizh/Leetcode_Problems/tree/main/0812-largest-triangle-area/) | Easy |
@@ -82,6 +83,7 @@ To improve problem-solving and data structures & algorithms skills.
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0334-increasing-triplet-subsequence](https://github.com/Valartamizh/Leetcode_Problems/tree/main/0334-increasing-triplet-subsequence/) | Medium |
 | [0409-longest-palindrome](https://github.com/Valartamizh/Leetcode_Problems/tree/main/0409-longest-palindrome/) | Easy |
 | [0605-can-place-flowers](https://github.com/Valartamizh/Leetcode_Problems/tree/main/0605-can-place-flowers/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/Valartamizh/Leetcode_Problems/tree/main/1833-maximum-ice-cream-bars/) | Medium |
