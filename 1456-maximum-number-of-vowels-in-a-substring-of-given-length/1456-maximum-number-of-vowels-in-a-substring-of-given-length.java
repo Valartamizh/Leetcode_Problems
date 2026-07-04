@@ -4,14 +4,14 @@ class Solution {
         int max = 0;
         int cont = 0;
         for(int i=0;i<k;i++){
-            if(v.indexOf(s.charAt(i)) != -1){
+            if(v.contains(Character.toString(s.charAt(i)))){
                 cont++;
             }
         }
         max = cont;
         for(int i=k;i<s.length();i++){
-            if(v.indexOf(s.charAt(i)) != -1) cont++;
-            if(v.indexOf(s.charAt(i-k)) != -1) cont--;
+            if(v.contains(Character.toString(s.charAt(i)))) cont++;
+            if(v.contains(Character.toString(s.charAt(i-k)))) cont--;
             max = Math.max(max, cont);
         }
         return max;
