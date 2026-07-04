@@ -24,6 +24,7 @@ To improve problem-solving and data structures & algorithms skills.
 | [0011-container-with-most-water](https://github.com/Valartamizh/Leetcode_Problems/tree/main/0011-container-with-most-water/) | Medium |
 | [0120-triangle](https://github.com/Valartamizh/Leetcode_Problems/tree/main/0120-triangle/) | Medium |
 | [0200-number-of-islands](https://github.com/Valartamizh/Leetcode_Problems/tree/main/0200-number-of-islands/) | Medium |
+| [0209-minimum-size-subarray-sum](https://github.com/Valartamizh/Leetcode_Problems/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/Valartamizh/Leetcode_Problems/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0283-move-zeroes](https://github.com/Valartamizh/Leetcode_Problems/tree/main/0283-move-zeroes/) | Easy |
 | [0334-increasing-triplet-subsequence](https://github.com/Valartamizh/Leetcode_Problems/tree/main/0334-increasing-triplet-subsequence/) | Medium |
@@ -84,6 +85,7 @@ To improve problem-solving and data structures & algorithms skills.
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Valartamizh/Leetcode_Problems/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/Valartamizh/Leetcode_Problems/tree/main/0238-product-of-array-except-self/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/Valartamizh/Leetcode_Problems/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [2574-left-and-right-sum-differences](https://github.com/Valartamizh/Leetcode_Problems/tree/main/2574-left-and-right-sum-differences/) | Easy |
@@ -226,6 +228,7 @@ To improve problem-solving and data structures & algorithms skills.
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Valartamizh/Leetcode_Problems/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0278-first-bad-version](https://github.com/Valartamizh/Leetcode_Problems/tree/main/0278-first-bad-version/) | Easy |
 | [3346-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/Valartamizh/Leetcode_Problems/tree/main/3346-maximum-frequency-of-an-element-after-performing-operations-i/) | Medium |
 ## Interactive
@@ -245,6 +248,7 @@ To improve problem-solving and data structures & algorithms skills.
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Valartamizh/Leetcode_Problems/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/Valartamizh/Leetcode_Problems/tree/main/0904-fruit-into-baskets/) | Medium |
 | [1297-maximum-number-of-occurrences-of-a-substring](https://github.com/Valartamizh/Leetcode_Problems/tree/main/1297-maximum-number-of-occurrences-of-a-substring/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Valartamizh/Leetcode_Problems/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
