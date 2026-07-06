@@ -35,6 +35,7 @@ To improve problem-solving and data structures & algorithms skills.
 | [0812-largest-triangle-area](https://github.com/Valartamizh/Leetcode_Problems/tree/main/0812-largest-triangle-area/) | Easy |
 | [0904-fruit-into-baskets](https://github.com/Valartamizh/Leetcode_Problems/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Valartamizh/Leetcode_Problems/tree/main/0961-n-repeated-element-in-size-2n-array/) | Easy |
+| [1004-max-consecutive-ones-iii](https://github.com/Valartamizh/Leetcode_Problems/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Valartamizh/Leetcode_Problems/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Valartamizh/Leetcode_Problems/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/Valartamizh/Leetcode_Problems/tree/main/1732-find-the-highest-altitude/) | Easy |
@@ -89,6 +90,7 @@ To improve problem-solving and data structures & algorithms skills.
 | ------- | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Valartamizh/Leetcode_Problems/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/Valartamizh/Leetcode_Problems/tree/main/0238-product-of-array-except-self/) | Medium |
+| [1004-max-consecutive-ones-iii](https://github.com/Valartamizh/Leetcode_Problems/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/Valartamizh/Leetcode_Problems/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [2574-left-and-right-sum-differences](https://github.com/Valartamizh/Leetcode_Problems/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [3346-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/Valartamizh/Leetcode_Problems/tree/main/3346-maximum-frequency-of-an-element-after-performing-operations-i/) | Medium |
@@ -235,6 +237,7 @@ To improve problem-solving and data structures & algorithms skills.
 | ------- | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Valartamizh/Leetcode_Problems/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0278-first-bad-version](https://github.com/Valartamizh/Leetcode_Problems/tree/main/0278-first-bad-version/) | Easy |
+| [1004-max-consecutive-ones-iii](https://github.com/Valartamizh/Leetcode_Problems/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [3346-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/Valartamizh/Leetcode_Problems/tree/main/3346-maximum-frequency-of-an-element-after-performing-operations-i/) | Medium |
 ## Interactive
 | Problem Name | Difficulty |
@@ -257,6 +260,7 @@ To improve problem-solving and data structures & algorithms skills.
 | [0209-minimum-size-subarray-sum](https://github.com/Valartamizh/Leetcode_Problems/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/Valartamizh/Leetcode_Problems/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0904-fruit-into-baskets](https://github.com/Valartamizh/Leetcode_Problems/tree/main/0904-fruit-into-baskets/) | Medium |
+| [1004-max-consecutive-ones-iii](https://github.com/Valartamizh/Leetcode_Problems/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1297-maximum-number-of-occurrences-of-a-substring](https://github.com/Valartamizh/Leetcode_Problems/tree/main/1297-maximum-number-of-occurrences-of-a-substring/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Valartamizh/Leetcode_Problems/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Valartamizh/Leetcode_Problems/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
