@@ -46,6 +46,7 @@ To improve problem-solving and data structures & algorithms skills.
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Valartamizh/Leetcode_Problems/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [1920-build-array-from-permutation](https://github.com/Valartamizh/Leetcode_Problems/tree/main/1920-build-array-from-permutation/) | Easy |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Valartamizh/Leetcode_Problems/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
+| [1991-find-the-middle-index-in-array](https://github.com/Valartamizh/Leetcode_Problems/tree/main/1991-find-the-middle-index-in-array/) | Easy |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Valartamizh/Leetcode_Problems/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2206-divide-array-into-equal-pairs](https://github.com/Valartamizh/Leetcode_Problems/tree/main/2206-divide-array-into-equal-pairs/) | Easy |
 | [2475-number-of-unequal-triplets-in-array](https://github.com/Valartamizh/Leetcode_Problems/tree/main/2475-number-of-unequal-triplets-in-array/) | Easy |
@@ -96,6 +97,7 @@ To improve problem-solving and data structures & algorithms skills.
 | [0724-find-pivot-index](https://github.com/Valartamizh/Leetcode_Problems/tree/main/0724-find-pivot-index/) | Easy |
 | [1004-max-consecutive-ones-iii](https://github.com/Valartamizh/Leetcode_Problems/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/Valartamizh/Leetcode_Problems/tree/main/1732-find-the-highest-altitude/) | Easy |
+| [1991-find-the-middle-index-in-array](https://github.com/Valartamizh/Leetcode_Problems/tree/main/1991-find-the-middle-index-in-array/) | Easy |
 | [2574-left-and-right-sum-differences](https://github.com/Valartamizh/Leetcode_Problems/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [3346-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/Valartamizh/Leetcode_Problems/tree/main/3346-maximum-frequency-of-an-element-after-performing-operations-i/) | Medium |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Valartamizh/Leetcode_Problems/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
