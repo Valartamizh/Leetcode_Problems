@@ -1,33 +1,28 @@
 class Solution {
     public List<List<Integer>> findDifference(int[] nums1, int[] nums2) {
-        int offset = 1000;
+        List<List<Integer>> list = new ArrayList<>();
+        HashSet<Integer> hs1 = new HashSet<>(nums1.length + nums2.length);
+        HashSet<Integer> hs2 = new HashSet<>(nums1.length + nums2.length);
 
-        List<Integer> res1 = new ArrayList<>();
-        List<Integer> res2 = new ArrayList<>();
-
-        boolean[] lookup1 = new boolean[2001];
-        boolean[] lookup2 = new boolean[2001];
-
-        for (int val : nums1) {
-            lookup1[offset + val] = true;
+        HashSet<Integer> intersect = new HashSet<>(nums1.length + nums2.length);
+        
+        for (int i = 0; i < nums1.length; i++) {
+            hs1.add(nums1[i]);
         }
 
-        for (int val : nums2) {
-            if (!lookup1[offset + val]) {
-                res2.add(val);
-                lookup1[offset + val] = true;
-            }
-            lookup2[offset + val] = true;
+        for (int i = 0; i < nums2.length; i++) {
+            if (hs1.contains(nums2[i])) intersect.add(nums2[i]);
+            else hs2.add(nums2[i]);
         }
 
-        for (int val : nums1) {
-            if (!lookup2[offset + val]) {
-                res1.add(val);
-                lookup2[offset + val] = true;
-            }
-            lookup1[offset + val] = true;
+        for (Integer i : intersect) {
+            hs1.remove(i); 
         }
+        
+        
+        list.add(new ArrayList<>(hs1));
+        list.add(new ArrayList<>(hs2));
 
-        return Arrays.asList(res1, res2);
+        return list;
     }
 }
