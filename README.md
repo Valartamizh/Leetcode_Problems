@@ -49,6 +49,7 @@ To improve problem-solving and data structures & algorithms skills.
 | [1991-find-the-middle-index-in-array](https://github.com/Valartamizh/Leetcode_Problems/tree/main/1991-find-the-middle-index-in-array/) | Easy |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Valartamizh/Leetcode_Problems/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2206-divide-array-into-equal-pairs](https://github.com/Valartamizh/Leetcode_Problems/tree/main/2206-divide-array-into-equal-pairs/) | Easy |
+| [2215-find-the-difference-of-two-arrays](https://github.com/Valartamizh/Leetcode_Problems/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
 | [2475-number-of-unequal-triplets-in-array](https://github.com/Valartamizh/Leetcode_Problems/tree/main/2475-number-of-unequal-triplets-in-array/) | Easy |
 | [2549-count-distinct-numbers-on-board](https://github.com/Valartamizh/Leetcode_Problems/tree/main/2549-count-distinct-numbers-on-board/) | Easy |
 | [2574-left-and-right-sum-differences](https://github.com/Valartamizh/Leetcode_Problems/tree/main/2574-left-and-right-sum-differences/) | Easy |
@@ -124,6 +125,7 @@ To improve problem-solving and data structures & algorithms skills.
 | [1679-max-number-of-k-sum-pairs](https://github.com/Valartamizh/Leetcode_Problems/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
 | [1763-longest-nice-substring](https://github.com/Valartamizh/Leetcode_Problems/tree/main/1763-longest-nice-substring/) | Easy |
 | [2206-divide-array-into-equal-pairs](https://github.com/Valartamizh/Leetcode_Problems/tree/main/2206-divide-array-into-equal-pairs/) | Easy |
+| [2215-find-the-difference-of-two-arrays](https://github.com/Valartamizh/Leetcode_Problems/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
 | [2475-number-of-unequal-triplets-in-array](https://github.com/Valartamizh/Leetcode_Problems/tree/main/2475-number-of-unequal-triplets-in-array/) | Easy |
 | [2549-count-distinct-numbers-on-board](https://github.com/Valartamizh/Leetcode_Problems/tree/main/2549-count-distinct-numbers-on-board/) | Easy |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Valartamizh/Leetcode_Problems/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
