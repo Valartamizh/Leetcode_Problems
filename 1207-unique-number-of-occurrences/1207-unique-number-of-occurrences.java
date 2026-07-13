@@ -1,10 +1,15 @@
 class Solution {
     public boolean uniqueOccurrences(int[] arr) {
-        HashMap<Integer, Integer> mp = new HashMap<>();
-        for(int a:arr){
-            mp.put(a,mp.getOrDefault(a,0)+1);
+        HashMap<Integer,Integer> map = new HashMap<>();
+        for(int i:arr){
+            map.put(i,map.getOrDefault(i,0)+1);
         }
-        HashSet<Integer> set  = new HashSet<>(mp.values());
-        return set.size() == mp.size();
+        HashSet<Integer> set = new HashSet<>();
+        for(Integer i: map.values()){
+            if(!set.add(i)){
+                return false;
+            }
+        }
+        return true;
     }
 }
