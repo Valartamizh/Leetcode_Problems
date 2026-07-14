@@ -34,6 +34,7 @@ To improve problem-solving and data structures & algorithms skills.
 | [0605-can-place-flowers](https://github.com/Valartamizh/Leetcode_Problems/tree/main/0605-can-place-flowers/) | Easy |
 | [0643-maximum-average-subarray-i](https://github.com/Valartamizh/Leetcode_Problems/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0724-find-pivot-index](https://github.com/Valartamizh/Leetcode_Problems/tree/main/0724-find-pivot-index/) | Easy |
+| [0735-asteroid-collision](https://github.com/Valartamizh/Leetcode_Problems/tree/main/0735-asteroid-collision/) | Medium |
 | [0812-largest-triangle-area](https://github.com/Valartamizh/Leetcode_Problems/tree/main/0812-largest-triangle-area/) | Easy |
 | [0904-fruit-into-baskets](https://github.com/Valartamizh/Leetcode_Problems/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Valartamizh/Leetcode_Problems/tree/main/0961-n-repeated-element-in-size-2n-array/) | Easy |
@@ -85,6 +86,7 @@ To improve problem-solving and data structures & algorithms skills.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0566-reshape-the-matrix](https://github.com/Valartamizh/Leetcode_Problems/tree/main/0566-reshape-the-matrix/) | Easy |
+| [0735-asteroid-collision](https://github.com/Valartamizh/Leetcode_Problems/tree/main/0735-asteroid-collision/) | Medium |
 | [1603-design-parking-system](https://github.com/Valartamizh/Leetcode_Problems/tree/main/1603-design-parking-system/) | Easy |
 | [1920-build-array-from-permutation](https://github.com/Valartamizh/Leetcode_Problems/tree/main/1920-build-array-from-permutation/) | Easy |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Valartamizh/Leetcode_Problems/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
@@ -168,6 +170,7 @@ To improve problem-solving and data structures & algorithms skills.
 | ------- | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Valartamizh/Leetcode_Problems/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0232-implement-queue-using-stacks](https://github.com/Valartamizh/Leetcode_Problems/tree/main/0232-implement-queue-using-stacks/) | Easy |
+| [0735-asteroid-collision](https://github.com/Valartamizh/Leetcode_Problems/tree/main/0735-asteroid-collision/) | Medium |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Valartamizh/Leetcode_Problems/tree/main/1653-minimum-deletions-to-make-string-balanced/) | Medium |
 | [2000-reverse-prefix-of-word](https://github.com/Valartamizh/Leetcode_Problems/tree/main/2000-reverse-prefix-of-word/) | Easy |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Valartamizh/Leetcode_Problems/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
