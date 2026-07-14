@@ -15,8 +15,6 @@ class Solution {
         }
 
         for (int i = 0; i < n; i++) {
-            //int left = (i == 0) ? 0 : leftSum[i - 1];
-            //int right = (i == n - 1) ? 0 : rightSum[i + 1];
             if (leftSum[i] == rightSum[i]) {
                 return i;
             }
