@@ -67,6 +67,7 @@ To improve problem-solving and data structures & algorithms skills.
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Valartamizh/Leetcode_Problems/tree/main/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Valartamizh/Leetcode_Problems/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3838-weighted-word-mapping](https://github.com/Valartamizh/Leetcode_Problems/tree/main/3838-weighted-word-mapping/) | Easy |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Valartamizh/Leetcode_Problems/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -83,6 +84,7 @@ To improve problem-solving and data structures & algorithms skills.
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Valartamizh/Leetcode_Problems/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Valartamizh/Leetcode_Problems/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Valartamizh/Leetcode_Problems/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Valartamizh/Leetcode_Problems/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -95,6 +97,7 @@ To improve problem-solving and data structures & algorithms skills.
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Valartamizh/Leetcode_Problems/tree/main/3461-check-if-digits-are-equal-in-string-after-operations-i/) | Easy |
 | [3612-process-string-with-special-operations-i](https://github.com/Valartamizh/Leetcode_Problems/tree/main/3612-process-string-with-special-operations-i/) | Medium |
 | [3838-weighted-word-mapping](https://github.com/Valartamizh/Leetcode_Problems/tree/main/3838-weighted-word-mapping/) | Easy |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Valartamizh/Leetcode_Problems/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -207,6 +210,7 @@ To improve problem-solving and data structures & algorithms skills.
 | [2475-number-of-unequal-triplets-in-array](https://github.com/Valartamizh/Leetcode_Problems/tree/main/2475-number-of-unequal-triplets-in-array/) | Easy |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Valartamizh/Leetcode_Problems/tree/main/3010-divide-an-array-into-subarrays-with-minimum-cost-i/) | Easy |
 | [3346-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/Valartamizh/Leetcode_Problems/tree/main/3346-maximum-frequency-of-an-element-after-performing-operations-i/) | Medium |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Valartamizh/Leetcode_Problems/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -217,6 +221,7 @@ To improve problem-solving and data structures & algorithms skills.
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Valartamizh/Leetcode_Problems/tree/main/3461-check-if-digits-are-equal-in-string-after-operations-i/) | Easy |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Valartamizh/Leetcode_Problems/tree/main/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Valartamizh/Leetcode_Problems/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Valartamizh/Leetcode_Problems/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -301,6 +306,7 @@ To improve problem-solving and data structures & algorithms skills.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Valartamizh/Leetcode_Problems/tree/main/3461-check-if-digits-are-equal-in-string-after-operations-i/) | Easy |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Valartamizh/Leetcode_Problems/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
