@@ -12,7 +12,6 @@ class Solution {
 
         long[] divisible = new long[max + 1];
 
-        // Count numbers divisible by i
         for (int i = 1; i <= max; i++) {
             for (int j = i; j <= max; j += i) {
                 divisible[i] += freq[j];
@@ -21,7 +20,6 @@ class Solution {
 
         long[] exact = new long[max + 1];
 
-        // Count pairs having gcd exactly i
         for (int i = max; i >= 1; i--) {
 
             exact[i] = divisible[i] * (divisible[i] - 1) / 2;
