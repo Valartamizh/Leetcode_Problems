@@ -1,40 +1,34 @@
 class Solution {
     public String smallestSubsequence(String s) {
-        int[] freq = new int[27];
-        boolean[] seen = new boolean[27];
+        HashMap<Character, Integer> freq = new HashMap<>();
+        HashSet<Character> seen = new HashSet<>();
         Stack<Character> stack = new Stack<>();
 
-        for (int i = 0; i < s.length(); i++)
-            freq[s.charAt(i) & 31]++;
+        for (char c : s.toCharArray()) {
+            freq.put(c, freq.getOrDefault(c, 0) + 1);
+        }
 
-        for (int i = 0; i < s.length(); i++) {
-            char c = s.charAt(i);
-            int x = c & 31;
-            freq[x]--;
-
-            if (seen[x])
+        for (char c : s.toCharArray()) {
+            freq.put(c, freq.get(c) - 1);
+            if (seen.contains(c))
                 continue;
 
-            while (!stack.isEmpty()) {
-                if (stack.peek() <= c)
-                    break;
+            while (!stack.isEmpty()
+                    && stack.peek() > c
+                    && freq.get(stack.peek()) > 0) {
 
-                if (freq[stack.peek() & 31] == 0)
-                    break;
-
-                seen[stack.peek() & 31] = false;
-                stack.pop();
+                seen.remove(stack.pop());
             }
 
             stack.push(c);
-            seen[x] = true;
+            seen.add(c);
         }
 
-        StringBuilder res = new StringBuilder();
+        StringBuilder ans = new StringBuilder();
+        for (char c : stack) {
+            ans.append(c);
+        }
 
-        for (char c : stack)
-            res.append(c);
-
-        return res.toString();
+        return ans.toString();
     }
 }
