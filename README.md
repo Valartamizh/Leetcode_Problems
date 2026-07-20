@@ -41,6 +41,7 @@ To improve problem-solving and data structures & algorithms skills.
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Valartamizh/Leetcode_Problems/tree/main/0961-n-repeated-element-in-size-2n-array/) | Easy |
 | [1004-max-consecutive-ones-iii](https://github.com/Valartamizh/Leetcode_Problems/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1207-unique-number-of-occurrences](https://github.com/Valartamizh/Leetcode_Problems/tree/main/1207-unique-number-of-occurrences/) | Easy |
+| [1260-shift-2d-grid](https://github.com/Valartamizh/Leetcode_Problems/tree/main/1260-shift-2d-grid/) | Easy |
 | [1331-rank-transform-of-an-array](https://github.com/Valartamizh/Leetcode_Problems/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Valartamizh/Leetcode_Problems/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Valartamizh/Leetcode_Problems/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
@@ -92,6 +93,7 @@ To improve problem-solving and data structures & algorithms skills.
 | ------- | ------- |
 | [0566-reshape-the-matrix](https://github.com/Valartamizh/Leetcode_Problems/tree/main/0566-reshape-the-matrix/) | Easy |
 | [0735-asteroid-collision](https://github.com/Valartamizh/Leetcode_Problems/tree/main/0735-asteroid-collision/) | Medium |
+| [1260-shift-2d-grid](https://github.com/Valartamizh/Leetcode_Problems/tree/main/1260-shift-2d-grid/) | Easy |
 | [1603-design-parking-system](https://github.com/Valartamizh/Leetcode_Problems/tree/main/1603-design-parking-system/) | Easy |
 | [1920-build-array-from-permutation](https://github.com/Valartamizh/Leetcode_Problems/tree/main/1920-build-array-from-permutation/) | Easy |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Valartamizh/Leetcode_Problems/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
@@ -265,6 +267,7 @@ To improve problem-solving and data structures & algorithms skills.
 | ------- | ------- |
 | [0200-number-of-islands](https://github.com/Valartamizh/Leetcode_Problems/tree/main/0200-number-of-islands/) | Medium |
 | [0566-reshape-the-matrix](https://github.com/Valartamizh/Leetcode_Problems/tree/main/0566-reshape-the-matrix/) | Easy |
+| [1260-shift-2d-grid](https://github.com/Valartamizh/Leetcode_Problems/tree/main/1260-shift-2d-grid/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
