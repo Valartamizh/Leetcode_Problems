@@ -12,7 +12,6 @@ class Solution {
             }
             else if(nums[low]+nums[high] < k) low++;
             else high--;
-            //else break;
         }
         return cont;
     }
