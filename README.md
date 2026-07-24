@@ -239,6 +239,7 @@ To improve problem-solving and data structures & algorithms skills.
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0009-palindrome-number](https://github.com/Valartamizh/Leetcode_Problems/tree/main/0009-palindrome-number/) | Easy |
 | [0029-divide-two-integers](https://github.com/Valartamizh/Leetcode_Problems/tree/main/0029-divide-two-integers/) | Medium |
 | [0812-largest-triangle-area](https://github.com/Valartamizh/Leetcode_Problems/tree/main/0812-largest-triangle-area/) | Easy |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Valartamizh/Leetcode_Problems/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
