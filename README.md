@@ -23,6 +23,7 @@ To improve problem-solving and data structures & algorithms skills.
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Valartamizh/Leetcode_Problems/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0011-container-with-most-water](https://github.com/Valartamizh/Leetcode_Problems/tree/main/0011-container-with-most-water/) | Medium |
+| [0036-valid-sudoku](https://github.com/Valartamizh/Leetcode_Problems/tree/main/0036-valid-sudoku/) | Medium |
 | [0078-subsets](https://github.com/Valartamizh/Leetcode_Problems/tree/main/0078-subsets/) | Medium |
 | [0120-triangle](https://github.com/Valartamizh/Leetcode_Problems/tree/main/0120-triangle/) | Medium |
 | [0200-number-of-islands](https://github.com/Valartamizh/Leetcode_Problems/tree/main/0200-number-of-islands/) | Medium |
@@ -134,6 +135,7 @@ To improve problem-solving and data structures & algorithms skills.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Valartamizh/Leetcode_Problems/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0036-valid-sudoku](https://github.com/Valartamizh/Leetcode_Problems/tree/main/0036-valid-sudoku/) | Medium |
 | [0409-longest-palindrome](https://github.com/Valartamizh/Leetcode_Problems/tree/main/0409-longest-palindrome/) | Easy |
 | [0451-sort-characters-by-frequency](https://github.com/Valartamizh/Leetcode_Problems/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/Valartamizh/Leetcode_Problems/tree/main/0904-fruit-into-baskets/) | Medium |
@@ -273,6 +275,7 @@ To improve problem-solving and data structures & algorithms skills.
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0036-valid-sudoku](https://github.com/Valartamizh/Leetcode_Problems/tree/main/0036-valid-sudoku/) | Medium |
 | [0200-number-of-islands](https://github.com/Valartamizh/Leetcode_Problems/tree/main/0200-number-of-islands/) | Medium |
 | [0566-reshape-the-matrix](https://github.com/Valartamizh/Leetcode_Problems/tree/main/0566-reshape-the-matrix/) | Easy |
 | [1260-shift-2d-grid](https://github.com/Valartamizh/Leetcode_Problems/tree/main/1260-shift-2d-grid/) | Easy |
