@@ -1,36 +1,46 @@
 class Solution {
-    String q(int h){
-        String a="";
-        for(int i=0;i<h;i++)a+=" ";
-        return a;
-    }
-    int x(String[] a){
-        int b=0;
-        for(String s:a)b+=s.length();
-        return b;
-    }
-    public List<String> fullJustify(String[] w, int m) {
-        List<String> s=new ArrayList<>();
-        int i=0,e=w.length;
-        for(i=0;i<e;){
-            String a="";
-            for(;i<e&&(a+w[i]).length()<=m;i++)a+=w[i]+" ";
-            a=a.trim();
-            String l[];
-            int k=(l=a.split(" ")).length,b=m-a.length();
-            if(i==e||k==1)s.add(a+q(b));
-            else if(k==2)s.add(l[0]+q(b+1)+l[1]);
-            else {int v=x(l);
-                r:while(v<=m)
-                for(int p=0;p<l.length-1;p++){
-                    l[p]+=" ";v++;
-                    if(v==m)break r;
+    public List<String> fullJustify(String[] words, int maxWidth) {
+        List<String> res = new ArrayList<>();
+        int i = 0;
+
+        while (i < words.length) {
+            int j = i, len = 0;
+
+            while (j < words.length &&
+                   len + words[j].length() + (j - i) <= maxWidth) {
+                len += words[j].length();
+                j++;
             }
-            a="";
-            for(String u:l)a+=u;
-            s.add(a);
+
+            StringBuilder sb = new StringBuilder();
+            int gaps = j - i - 1;
+
+            if (j == words.length || gaps == 0) {
+                for (int k = i; k < j; k++) {
+                    sb.append(words[k]);
+                    if (k < j - 1) sb.append(" ");
+                }
+                while (sb.length() < maxWidth)
+                    sb.append(" ");
+            } else {
+                int spaces = (maxWidth - len) / gaps;
+                int extra = (maxWidth - len) % gaps;
+
+                for (int k = i; k < j; k++) {
+                    sb.append(words[k]);
+                    if (k < j - 1) {
+                        for (int s = 0; s < spaces; s++)
+                            sb.append(" ");
+                        if (extra-- > 0)
+                            sb.append(" ");
+                    }
+                }
             }
+
+            res.add(sb.toString());
+            i = j;
         }
-        return s;
+
+        return res;
     }
 }
