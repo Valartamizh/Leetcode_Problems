@@ -24,6 +24,7 @@ To improve problem-solving and data structures & algorithms skills.
 | [0004-median-of-two-sorted-arrays](https://github.com/Valartamizh/Leetcode_Problems/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0011-container-with-most-water](https://github.com/Valartamizh/Leetcode_Problems/tree/main/0011-container-with-most-water/) | Medium |
 | [0036-valid-sudoku](https://github.com/Valartamizh/Leetcode_Problems/tree/main/0036-valid-sudoku/) | Medium |
+| [0068-text-justification](https://github.com/Valartamizh/Leetcode_Problems/tree/main/0068-text-justification/) | Hard |
 | [0078-subsets](https://github.com/Valartamizh/Leetcode_Problems/tree/main/0078-subsets/) | Medium |
 | [0120-triangle](https://github.com/Valartamizh/Leetcode_Problems/tree/main/0120-triangle/) | Medium |
 | [0200-number-of-islands](https://github.com/Valartamizh/Leetcode_Problems/tree/main/0200-number-of-islands/) | Medium |
@@ -94,6 +95,7 @@ To improve problem-solving and data structures & algorithms skills.
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0068-text-justification](https://github.com/Valartamizh/Leetcode_Problems/tree/main/0068-text-justification/) | Hard |
 | [0566-reshape-the-matrix](https://github.com/Valartamizh/Leetcode_Problems/tree/main/0566-reshape-the-matrix/) | Easy |
 | [0735-asteroid-collision](https://github.com/Valartamizh/Leetcode_Problems/tree/main/0735-asteroid-collision/) | Medium |
 | [1260-shift-2d-grid](https://github.com/Valartamizh/Leetcode_Problems/tree/main/1260-shift-2d-grid/) | Easy |
@@ -162,6 +164,7 @@ To improve problem-solving and data structures & algorithms skills.
 | [0005-longest-palindromic-substring](https://github.com/Valartamizh/Leetcode_Problems/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0032-longest-valid-parentheses](https://github.com/Valartamizh/Leetcode_Problems/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0058-length-of-last-word](https://github.com/Valartamizh/Leetcode_Problems/tree/main/0058-length-of-last-word/) | Easy |
+| [0068-text-justification](https://github.com/Valartamizh/Leetcode_Problems/tree/main/0068-text-justification/) | Hard |
 | [0151-reverse-words-in-a-string](https://github.com/Valartamizh/Leetcode_Problems/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0316-remove-duplicate-letters](https://github.com/Valartamizh/Leetcode_Problems/tree/main/0316-remove-duplicate-letters/) | Medium |
 | [0345-reverse-vowels-of-a-string](https://github.com/Valartamizh/Leetcode_Problems/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
