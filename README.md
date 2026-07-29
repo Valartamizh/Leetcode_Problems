@@ -35,6 +35,7 @@ To improve problem-solving and data structures & algorithms skills.
 | [0485-max-consecutive-ones](https://github.com/Valartamizh/Leetcode_Problems/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0566-reshape-the-matrix](https://github.com/Valartamizh/Leetcode_Problems/tree/main/0566-reshape-the-matrix/) | Easy |
 | [0605-can-place-flowers](https://github.com/Valartamizh/Leetcode_Problems/tree/main/0605-can-place-flowers/) | Easy |
+| [0628-maximum-product-of-three-numbers](https://github.com/Valartamizh/Leetcode_Problems/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0643-maximum-average-subarray-i](https://github.com/Valartamizh/Leetcode_Problems/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0724-find-pivot-index](https://github.com/Valartamizh/Leetcode_Problems/tree/main/0724-find-pivot-index/) | Easy |
 | [0735-asteroid-collision](https://github.com/Valartamizh/Leetcode_Problems/tree/main/0735-asteroid-collision/) | Medium |
@@ -231,6 +232,7 @@ To improve problem-solving and data structures & algorithms skills.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/Valartamizh/Leetcode_Problems/tree/main/0451-sort-characters-by-frequency/) | Medium |
+| [0628-maximum-product-of-three-numbers](https://github.com/Valartamizh/Leetcode_Problems/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [1331-rank-transform-of-an-array](https://github.com/Valartamizh/Leetcode_Problems/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Valartamizh/Leetcode_Problems/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
 | [1833-maximum-ice-cream-bars](https://github.com/Valartamizh/Leetcode_Problems/tree/main/1833-maximum-ice-cream-bars/) | Medium |
@@ -245,6 +247,7 @@ To improve problem-solving and data structures & algorithms skills.
 | ------- | ------- |
 | [0009-palindrome-number](https://github.com/Valartamizh/Leetcode_Problems/tree/main/0009-palindrome-number/) | Easy |
 | [0029-divide-two-integers](https://github.com/Valartamizh/Leetcode_Problems/tree/main/0029-divide-two-integers/) | Medium |
+| [0628-maximum-product-of-three-numbers](https://github.com/Valartamizh/Leetcode_Problems/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0812-largest-triangle-area](https://github.com/Valartamizh/Leetcode_Problems/tree/main/0812-largest-triangle-area/) | Easy |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Valartamizh/Leetcode_Problems/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Valartamizh/Leetcode_Problems/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
