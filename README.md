@@ -133,6 +133,7 @@ To improve problem-solving and data structures & algorithms skills.
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Valartamizh/Leetcode_Problems/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1833-maximum-ice-cream-bars](https://github.com/Valartamizh/Leetcode_Problems/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Valartamizh/Leetcode_Problems/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Valartamizh/Leetcode_Problems/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3689-maximum-total-subarray-value-i](https://github.com/Valartamizh/Leetcode_Problems/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
 | [3691-maximum-total-subarray-value-ii](https://github.com/Valartamizh/Leetcode_Problems/tree/main/3691-maximum-total-subarray-value-ii/) | Hard |
 ## Hash Table
@@ -188,6 +189,7 @@ To improve problem-solving and data structures & algorithms skills.
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Valartamizh/Leetcode_Problems/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [2000-reverse-prefix-of-word](https://github.com/Valartamizh/Leetcode_Problems/tree/main/2000-reverse-prefix-of-word/) | Easy |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/Valartamizh/Leetcode_Problems/tree/main/2269-find-the-k-beauty-of-a-number/) | Easy |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Valartamizh/Leetcode_Problems/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3258-count-substrings-that-satisfy-k-constraint-i](https://github.com/Valartamizh/Leetcode_Problems/tree/main/3258-count-substrings-that-satisfy-k-constraint-i/) | Easy |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Valartamizh/Leetcode_Problems/tree/main/3461-check-if-digits-are-equal-in-string-after-operations-i/) | Easy |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Valartamizh/Leetcode_Problems/tree/main/3499-maximize-active-section-with-trade-i/) | Medium |
@@ -256,6 +258,7 @@ To improve problem-solving and data structures & algorithms skills.
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Valartamizh/Leetcode_Problems/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/Valartamizh/Leetcode_Problems/tree/main/2269-find-the-k-beauty-of-a-number/) | Easy |
 | [2549-count-distinct-numbers-on-board](https://github.com/Valartamizh/Leetcode_Problems/tree/main/2549-count-distinct-numbers-on-board/) | Easy |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Valartamizh/Leetcode_Problems/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3312-sorted-gcd-pair-queries](https://github.com/Valartamizh/Leetcode_Problems/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Valartamizh/Leetcode_Problems/tree/main/3461-check-if-digits-are-equal-in-string-after-operations-i/) | Easy |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Valartamizh/Leetcode_Problems/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
