@@ -134,6 +134,7 @@ To improve problem-solving and data structures & algorithms skills.
 | [1833-maximum-ice-cream-bars](https://github.com/Valartamizh/Leetcode_Problems/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Valartamizh/Leetcode_Problems/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Valartamizh/Leetcode_Problems/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Valartamizh/Leetcode_Problems/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3689-maximum-total-subarray-value-i](https://github.com/Valartamizh/Leetcode_Problems/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
 | [3691-maximum-total-subarray-value-ii](https://github.com/Valartamizh/Leetcode_Problems/tree/main/3691-maximum-total-subarray-value-ii/) | Hard |
 ## Hash Table
@@ -156,6 +157,7 @@ To improve problem-solving and data structures & algorithms skills.
 | [2215-find-the-difference-of-two-arrays](https://github.com/Valartamizh/Leetcode_Problems/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
 | [2475-number-of-unequal-triplets-in-array](https://github.com/Valartamizh/Leetcode_Problems/tree/main/2475-number-of-unequal-triplets-in-array/) | Easy |
 | [2549-count-distinct-numbers-on-board](https://github.com/Valartamizh/Leetcode_Problems/tree/main/2549-count-distinct-numbers-on-board/) | Easy |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Valartamizh/Leetcode_Problems/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Valartamizh/Leetcode_Problems/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
 | [3312-sorted-gcd-pair-queries](https://github.com/Valartamizh/Leetcode_Problems/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/Valartamizh/Leetcode_Problems/tree/main/3712-sum-of-elements-with-frequency-divisible-by-k/) | Easy |
@@ -190,6 +192,7 @@ To improve problem-solving and data structures & algorithms skills.
 | [2000-reverse-prefix-of-word](https://github.com/Valartamizh/Leetcode_Problems/tree/main/2000-reverse-prefix-of-word/) | Easy |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/Valartamizh/Leetcode_Problems/tree/main/2269-find-the-k-beauty-of-a-number/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Valartamizh/Leetcode_Problems/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Valartamizh/Leetcode_Problems/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3258-count-substrings-that-satisfy-k-constraint-i](https://github.com/Valartamizh/Leetcode_Problems/tree/main/3258-count-substrings-that-satisfy-k-constraint-i/) | Easy |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Valartamizh/Leetcode_Problems/tree/main/3461-check-if-digits-are-equal-in-string-after-operations-i/) | Easy |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Valartamizh/Leetcode_Problems/tree/main/3499-maximize-active-section-with-trade-i/) | Medium |
@@ -229,6 +232,7 @@ To improve problem-solving and data structures & algorithms skills.
 | [1189-maximum-number-of-balloons](https://github.com/Valartamizh/Leetcode_Problems/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1603-design-parking-system](https://github.com/Valartamizh/Leetcode_Problems/tree/main/1603-design-parking-system/) | Easy |
 | [2206-divide-array-into-equal-pairs](https://github.com/Valartamizh/Leetcode_Problems/tree/main/2206-divide-array-into-equal-pairs/) | Easy |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Valartamizh/Leetcode_Problems/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3312-sorted-gcd-pair-queries](https://github.com/Valartamizh/Leetcode_Problems/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/Valartamizh/Leetcode_Problems/tree/main/3712-sum-of-elements-with-frequency-divisible-by-k/) | Easy |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Valartamizh/Leetcode_Problems/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
@@ -244,6 +248,7 @@ To improve problem-solving and data structures & algorithms skills.
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Valartamizh/Leetcode_Problems/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [2475-number-of-unequal-triplets-in-array](https://github.com/Valartamizh/Leetcode_Problems/tree/main/2475-number-of-unequal-triplets-in-array/) | Easy |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Valartamizh/Leetcode_Problems/tree/main/3010-divide-an-array-into-subarrays-with-minimum-cost-i/) | Easy |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Valartamizh/Leetcode_Problems/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3346-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/Valartamizh/Leetcode_Problems/tree/main/3346-maximum-frequency-of-an-element-after-performing-operations-i/) | Medium |
 | [3536-maximum-product-of-two-digits](https://github.com/Valartamizh/Leetcode_Problems/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Valartamizh/Leetcode_Problems/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
