@@ -40,6 +40,7 @@ To improve problem-solving and data structures & algorithms skills.
 | [0724-find-pivot-index](https://github.com/Valartamizh/Leetcode_Problems/tree/main/0724-find-pivot-index/) | Easy |
 | [0735-asteroid-collision](https://github.com/Valartamizh/Leetcode_Problems/tree/main/0735-asteroid-collision/) | Medium |
 | [0812-largest-triangle-area](https://github.com/Valartamizh/Leetcode_Problems/tree/main/0812-largest-triangle-area/) | Easy |
+| [0877-stone-game](https://github.com/Valartamizh/Leetcode_Problems/tree/main/0877-stone-game/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/Valartamizh/Leetcode_Problems/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Valartamizh/Leetcode_Problems/tree/main/0961-n-repeated-element-in-size-2n-array/) | Easy |
 | [1004-max-consecutive-ones-iii](https://github.com/Valartamizh/Leetcode_Problems/tree/main/1004-max-consecutive-ones-iii/) | Medium |
@@ -263,6 +264,7 @@ To improve problem-solving and data structures & algorithms skills.
 | [0029-divide-two-integers](https://github.com/Valartamizh/Leetcode_Problems/tree/main/0029-divide-two-integers/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/Valartamizh/Leetcode_Problems/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0812-largest-triangle-area](https://github.com/Valartamizh/Leetcode_Problems/tree/main/0812-largest-triangle-area/) | Easy |
+| [0877-stone-game](https://github.com/Valartamizh/Leetcode_Problems/tree/main/0877-stone-game/) | Medium |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Valartamizh/Leetcode_Problems/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Valartamizh/Leetcode_Problems/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/Valartamizh/Leetcode_Problems/tree/main/2269-find-the-k-beauty-of-a-number/) | Easy |
@@ -341,6 +343,7 @@ To improve problem-solving and data structures & algorithms skills.
 | [0032-longest-valid-parentheses](https://github.com/Valartamizh/Leetcode_Problems/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0120-triangle](https://github.com/Valartamizh/Leetcode_Problems/tree/main/0120-triangle/) | Medium |
 | [0392-is-subsequence](https://github.com/Valartamizh/Leetcode_Problems/tree/main/0392-is-subsequence/) | Easy |
+| [0877-stone-game](https://github.com/Valartamizh/Leetcode_Problems/tree/main/0877-stone-game/) | Medium |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Valartamizh/Leetcode_Problems/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Valartamizh/Leetcode_Problems/tree/main/1653-minimum-deletions-to-make-string-balanced/) | Medium |
 ## Sliding Window
@@ -414,4 +417,8 @@ To improve problem-solving and data structures & algorithms skills.
 | ------- | ------- |
 | [0316-remove-duplicate-letters](https://github.com/Valartamizh/Leetcode_Problems/tree/main/0316-remove-duplicate-letters/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Valartamizh/Leetcode_Problems/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
+## Game Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0877-stone-game](https://github.com/Valartamizh/Leetcode_Problems/tree/main/0877-stone-game/) | Medium |
 <!---LeetCode Topics End-->
