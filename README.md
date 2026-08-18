@@ -70,6 +70,7 @@ To improve problem-solving and data structures & algorithms skills.
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Valartamizh/Leetcode_Problems/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
 | [3312-sorted-gcd-pair-queries](https://github.com/Valartamizh/Leetcode_Problems/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3346-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/Valartamizh/Leetcode_Problems/tree/main/3346-maximum-frequency-of-an-element-after-performing-operations-i/) | Medium |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/Valartamizh/Leetcode_Problems/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Valartamizh/Leetcode_Problems/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Valartamizh/Leetcode_Problems/tree/main/3514-number-of-unique-xor-triplets-ii/) | Medium |
 | [3689-maximum-total-subarray-value-i](https://github.com/Valartamizh/Leetcode_Problems/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
@@ -164,6 +165,7 @@ To improve problem-solving and data structures & algorithms skills.
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Valartamizh/Leetcode_Problems/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Valartamizh/Leetcode_Problems/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
 | [3312-sorted-gcd-pair-queries](https://github.com/Valartamizh/Leetcode_Problems/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/Valartamizh/Leetcode_Problems/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/Valartamizh/Leetcode_Problems/tree/main/3712-sum-of-elements-with-frequency-divisible-by-k/) | Easy |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Valartamizh/Leetcode_Problems/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 ## String
