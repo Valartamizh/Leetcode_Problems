@@ -75,6 +75,7 @@ To improve problem-solving and data structures & algorithms skills.
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Valartamizh/Leetcode_Problems/tree/main/3514-number-of-unique-xor-triplets-ii/) | Medium |
 | [3689-maximum-total-subarray-value-i](https://github.com/Valartamizh/Leetcode_Problems/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
 | [3691-maximum-total-subarray-value-ii](https://github.com/Valartamizh/Leetcode_Problems/tree/main/3691-maximum-total-subarray-value-ii/) | Hard |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Valartamizh/Leetcode_Problems/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/Valartamizh/Leetcode_Problems/tree/main/3712-sum-of-elements-with-frequency-divisible-by-k/) | Easy |
 | [3731-find-missing-elements](https://github.com/Valartamizh/Leetcode_Problems/tree/main/3731-find-missing-elements/) | Easy |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Valartamizh/Leetcode_Problems/tree/main/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
@@ -324,6 +325,7 @@ To improve problem-solving and data structures & algorithms skills.
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/Valartamizh/Leetcode_Problems/tree/main/2859-sum-of-values-at-indices-with-k-set-bits/) | Easy |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Valartamizh/Leetcode_Problems/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Valartamizh/Leetcode_Problems/tree/main/3514-number-of-unique-xor-triplets-ii/) | Medium |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Valartamizh/Leetcode_Problems/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
