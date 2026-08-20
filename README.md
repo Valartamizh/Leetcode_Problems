@@ -26,6 +26,7 @@ To improve problem-solving and data structures & algorithms skills.
 | [0036-valid-sudoku](https://github.com/Valartamizh/Leetcode_Problems/tree/main/0036-valid-sudoku/) | Medium |
 | [0068-text-justification](https://github.com/Valartamizh/Leetcode_Problems/tree/main/0068-text-justification/) | Hard |
 | [0078-subsets](https://github.com/Valartamizh/Leetcode_Problems/tree/main/0078-subsets/) | Medium |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/Valartamizh/Leetcode_Problems/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0120-triangle](https://github.com/Valartamizh/Leetcode_Problems/tree/main/0120-triangle/) | Medium |
 | [0200-number-of-islands](https://github.com/Valartamizh/Leetcode_Problems/tree/main/0200-number-of-islands/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/Valartamizh/Leetcode_Problems/tree/main/0209-minimum-size-subarray-sum/) | Medium |
@@ -336,6 +337,7 @@ To improve problem-solving and data structures & algorithms skills.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Valartamizh/Leetcode_Problems/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/Valartamizh/Leetcode_Problems/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/Valartamizh/Leetcode_Problems/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0278-first-bad-version](https://github.com/Valartamizh/Leetcode_Problems/tree/main/0278-first-bad-version/) | Easy |
 | [1004-max-consecutive-ones-iii](https://github.com/Valartamizh/Leetcode_Problems/tree/main/1004-max-consecutive-ones-iii/) | Medium |
