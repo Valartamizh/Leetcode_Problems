@@ -47,6 +47,7 @@ To improve problem-solving and data structures & algorithms skills.
 | [1004-max-consecutive-ones-iii](https://github.com/Valartamizh/Leetcode_Problems/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1207-unique-number-of-occurrences](https://github.com/Valartamizh/Leetcode_Problems/tree/main/1207-unique-number-of-occurrences/) | Easy |
 | [1260-shift-2d-grid](https://github.com/Valartamizh/Leetcode_Problems/tree/main/1260-shift-2d-grid/) | Easy |
+| [1329-sort-the-matrix-diagonally](https://github.com/Valartamizh/Leetcode_Problems/tree/main/1329-sort-the-matrix-diagonally/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/Valartamizh/Leetcode_Problems/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Valartamizh/Leetcode_Problems/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Valartamizh/Leetcode_Problems/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
@@ -259,6 +260,7 @@ To improve problem-solving and data structures & algorithms skills.
 | ------- | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/Valartamizh/Leetcode_Problems/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/Valartamizh/Leetcode_Problems/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
+| [1329-sort-the-matrix-diagonally](https://github.com/Valartamizh/Leetcode_Problems/tree/main/1329-sort-the-matrix-diagonally/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/Valartamizh/Leetcode_Problems/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Valartamizh/Leetcode_Problems/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1657-determine-if-two-strings-are-close](https://github.com/Valartamizh/Leetcode_Problems/tree/main/1657-determine-if-two-strings-are-close/) | Medium |
@@ -322,6 +324,7 @@ To improve problem-solving and data structures & algorithms skills.
 | [0200-number-of-islands](https://github.com/Valartamizh/Leetcode_Problems/tree/main/0200-number-of-islands/) | Medium |
 | [0566-reshape-the-matrix](https://github.com/Valartamizh/Leetcode_Problems/tree/main/0566-reshape-the-matrix/) | Easy |
 | [1260-shift-2d-grid](https://github.com/Valartamizh/Leetcode_Problems/tree/main/1260-shift-2d-grid/) | Easy |
+| [1329-sort-the-matrix-diagonally](https://github.com/Valartamizh/Leetcode_Problems/tree/main/1329-sort-the-matrix-diagonally/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
