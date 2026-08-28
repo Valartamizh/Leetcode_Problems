@@ -277,6 +277,7 @@ To improve problem-solving and data structures & algorithms skills.
 | ------- | ------- |
 | [0009-palindrome-number](https://github.com/Valartamizh/Leetcode_Problems/tree/main/0009-palindrome-number/) | Easy |
 | [0029-divide-two-integers](https://github.com/Valartamizh/Leetcode_Problems/tree/main/0029-divide-two-integers/) | Medium |
+| [0070-climbing-stairs](https://github.com/Valartamizh/Leetcode_Problems/tree/main/0070-climbing-stairs/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/Valartamizh/Leetcode_Problems/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0812-largest-triangle-area](https://github.com/Valartamizh/Leetcode_Problems/tree/main/0812-largest-triangle-area/) | Easy |
 | [0877-stone-game](https://github.com/Valartamizh/Leetcode_Problems/tree/main/0877-stone-game/) | Medium |
@@ -359,6 +360,7 @@ To improve problem-solving and data structures & algorithms skills.
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Valartamizh/Leetcode_Problems/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0032-longest-valid-parentheses](https://github.com/Valartamizh/Leetcode_Problems/tree/main/0032-longest-valid-parentheses/) | Hard |
+| [0070-climbing-stairs](https://github.com/Valartamizh/Leetcode_Problems/tree/main/0070-climbing-stairs/) | Easy |
 | [0120-triangle](https://github.com/Valartamizh/Leetcode_Problems/tree/main/0120-triangle/) | Medium |
 | [0392-is-subsequence](https://github.com/Valartamizh/Leetcode_Problems/tree/main/0392-is-subsequence/) | Easy |
 | [0877-stone-game](https://github.com/Valartamizh/Leetcode_Problems/tree/main/0877-stone-game/) | Medium |
@@ -445,4 +447,8 @@ To improve problem-solving and data structures & algorithms skills.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Valartamizh/Leetcode_Problems/tree/main/0005-longest-palindromic-substring/) | Medium |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0070-climbing-stairs](https://github.com/Valartamizh/Leetcode_Problems/tree/main/0070-climbing-stairs/) | Easy |
 <!---LeetCode Topics End-->
