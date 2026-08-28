@@ -141,6 +141,7 @@ To improve problem-solving and data structures & algorithms skills.
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Valartamizh/Leetcode_Problems/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1833-maximum-ice-cream-bars](https://github.com/Valartamizh/Leetcode_Problems/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Valartamizh/Leetcode_Problems/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
+| [2027-minimum-moves-to-convert-string](https://github.com/Valartamizh/Leetcode_Problems/tree/main/2027-minimum-moves-to-convert-string/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Valartamizh/Leetcode_Problems/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Valartamizh/Leetcode_Problems/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3689-maximum-total-subarray-value-i](https://github.com/Valartamizh/Leetcode_Problems/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
@@ -204,6 +205,7 @@ To improve problem-solving and data structures & algorithms skills.
 | [1768-merge-strings-alternately](https://github.com/Valartamizh/Leetcode_Problems/tree/main/1768-merge-strings-alternately/) | Easy |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Valartamizh/Leetcode_Problems/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [2000-reverse-prefix-of-word](https://github.com/Valartamizh/Leetcode_Problems/tree/main/2000-reverse-prefix-of-word/) | Easy |
+| [2027-minimum-moves-to-convert-string](https://github.com/Valartamizh/Leetcode_Problems/tree/main/2027-minimum-moves-to-convert-string/) | Easy |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/Valartamizh/Leetcode_Problems/tree/main/2269-find-the-k-beauty-of-a-number/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Valartamizh/Leetcode_Problems/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Valartamizh/Leetcode_Problems/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
