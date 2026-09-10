@@ -407,6 +407,7 @@ To improve problem-solving and data structures & algorithms skills.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0200-number-of-islands](https://github.com/Valartamizh/Leetcode_Problems/tree/main/0200-number-of-islands/) | Medium |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Valartamizh/Leetcode_Problems/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -458,4 +459,12 @@ To improve problem-solving and data structures & algorithms skills.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/Valartamizh/Leetcode_Problems/tree/main/0070-climbing-stairs/) | Easy |
+## Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Valartamizh/Leetcode_Problems/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
+## Binary Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Valartamizh/Leetcode_Problems/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 <!---LeetCode Topics End-->
