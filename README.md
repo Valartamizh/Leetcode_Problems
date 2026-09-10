@@ -86,6 +86,7 @@ To improve problem-solving and data structures & algorithms skills.
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Valartamizh/Leetcode_Problems/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3838-weighted-word-mapping](https://github.com/Valartamizh/Leetcode_Problems/tree/main/3838-weighted-word-mapping/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Valartamizh/Leetcode_Problems/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
+| [3903-smallest-stable-index-i](https://github.com/Valartamizh/Leetcode_Problems/tree/main/3903-smallest-stable-index-i/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -132,6 +133,7 @@ To improve problem-solving and data structures & algorithms skills.
 | [3312-sorted-gcd-pair-queries](https://github.com/Valartamizh/Leetcode_Problems/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3346-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/Valartamizh/Leetcode_Problems/tree/main/3346-maximum-frequency-of-an-element-after-performing-operations-i/) | Medium |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Valartamizh/Leetcode_Problems/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
+| [3903-smallest-stable-index-i](https://github.com/Valartamizh/Leetcode_Problems/tree/main/3903-smallest-stable-index-i/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
