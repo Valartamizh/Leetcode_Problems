@@ -159,6 +159,7 @@ To improve problem-solving and data structures & algorithms skills.
 | [0451-sort-characters-by-frequency](https://github.com/Valartamizh/Leetcode_Problems/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/Valartamizh/Leetcode_Problems/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Valartamizh/Leetcode_Problems/tree/main/0961-n-repeated-element-in-size-2n-array/) | Easy |
+| [1096-brace-expansion-ii](https://github.com/Valartamizh/Leetcode_Problems/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1189-maximum-number-of-balloons](https://github.com/Valartamizh/Leetcode_Problems/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1207-unique-number-of-occurrences](https://github.com/Valartamizh/Leetcode_Problems/tree/main/1207-unique-number-of-occurrences/) | Easy |
 | [1297-maximum-number-of-occurrences-of-a-substring](https://github.com/Valartamizh/Leetcode_Problems/tree/main/1297-maximum-number-of-occurrences-of-a-substring/) | Medium |
@@ -199,6 +200,7 @@ To improve problem-solving and data structures & algorithms skills.
 | [0796-rotate-string](https://github.com/Valartamizh/Leetcode_Problems/tree/main/0796-rotate-string/) | Easy |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Valartamizh/Leetcode_Problems/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Valartamizh/Leetcode_Problems/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
+| [1096-brace-expansion-ii](https://github.com/Valartamizh/Leetcode_Problems/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1108-defanging-an-ip-address](https://github.com/Valartamizh/Leetcode_Problems/tree/main/1108-defanging-an-ip-address/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/Valartamizh/Leetcode_Problems/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1297-maximum-number-of-occurrences-of-a-substring](https://github.com/Valartamizh/Leetcode_Problems/tree/main/1297-maximum-number-of-occurrences-of-a-substring/) | Medium |
@@ -228,6 +230,7 @@ To improve problem-solving and data structures & algorithms skills.
 | [0316-remove-duplicate-letters](https://github.com/Valartamizh/Leetcode_Problems/tree/main/0316-remove-duplicate-letters/) | Medium |
 | [0735-asteroid-collision](https://github.com/Valartamizh/Leetcode_Problems/tree/main/0735-asteroid-collision/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Valartamizh/Leetcode_Problems/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
+| [1096-brace-expansion-ii](https://github.com/Valartamizh/Leetcode_Problems/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Valartamizh/Leetcode_Problems/tree/main/1653-minimum-deletions-to-make-string-balanced/) | Medium |
 | [2000-reverse-prefix-of-word](https://github.com/Valartamizh/Leetcode_Problems/tree/main/2000-reverse-prefix-of-word/) | Easy |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Valartamizh/Leetcode_Problems/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
@@ -264,6 +267,7 @@ To improve problem-solving and data structures & algorithms skills.
 | ------- | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/Valartamizh/Leetcode_Problems/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/Valartamizh/Leetcode_Problems/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
+| [1096-brace-expansion-ii](https://github.com/Valartamizh/Leetcode_Problems/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1329-sort-the-matrix-diagonally](https://github.com/Valartamizh/Leetcode_Problems/tree/main/1329-sort-the-matrix-diagonally/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/Valartamizh/Leetcode_Problems/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Valartamizh/Leetcode_Problems/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
@@ -414,6 +418,7 @@ To improve problem-solving and data structures & algorithms skills.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0200-number-of-islands](https://github.com/Valartamizh/Leetcode_Problems/tree/main/0200-number-of-islands/) | Medium |
+| [1096-brace-expansion-ii](https://github.com/Valartamizh/Leetcode_Problems/tree/main/1096-brace-expansion-ii/) | Hard |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -440,6 +445,7 @@ To improve problem-solving and data structures & algorithms skills.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0078-subsets](https://github.com/Valartamizh/Leetcode_Problems/tree/main/0078-subsets/) | Medium |
+| [1096-brace-expansion-ii](https://github.com/Valartamizh/Leetcode_Problems/tree/main/1096-brace-expansion-ii/) | Hard |
 ## Bucket Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
