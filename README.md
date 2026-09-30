@@ -118,6 +118,7 @@ To improve problem-solving and data structures & algorithms skills.
 | [2549-count-distinct-numbers-on-board](https://github.com/Valartamizh/Leetcode_Problems/tree/main/2549-count-distinct-numbers-on-board/) | Easy |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Valartamizh/Leetcode_Problems/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Valartamizh/Leetcode_Problems/tree/main/3461-check-if-digits-are-equal-in-string-after-operations-i/) | Easy |
+| [3498-reverse-degree-of-a-string](https://github.com/Valartamizh/Leetcode_Problems/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 | [3612-process-string-with-special-operations-i](https://github.com/Valartamizh/Leetcode_Problems/tree/main/3612-process-string-with-special-operations-i/) | Medium |
 | [3838-weighted-word-mapping](https://github.com/Valartamizh/Leetcode_Problems/tree/main/3838-weighted-word-mapping/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Valartamizh/Leetcode_Problems/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
@@ -221,6 +222,7 @@ To improve problem-solving and data structures & algorithms skills.
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Valartamizh/Leetcode_Problems/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 | [3258-count-substrings-that-satisfy-k-constraint-i](https://github.com/Valartamizh/Leetcode_Problems/tree/main/3258-count-substrings-that-satisfy-k-constraint-i/) | Easy |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Valartamizh/Leetcode_Problems/tree/main/3461-check-if-digits-are-equal-in-string-after-operations-i/) | Easy |
+| [3498-reverse-degree-of-a-string](https://github.com/Valartamizh/Leetcode_Problems/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Valartamizh/Leetcode_Problems/tree/main/3499-maximize-active-section-with-trade-i/) | Medium |
 | [3612-process-string-with-special-operations-i](https://github.com/Valartamizh/Leetcode_Problems/tree/main/3612-process-string-with-special-operations-i/) | Medium |
 | [3838-weighted-word-mapping](https://github.com/Valartamizh/Leetcode_Problems/tree/main/3838-weighted-word-mapping/) | Easy |
