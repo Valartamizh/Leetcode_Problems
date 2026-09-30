@@ -210,6 +210,7 @@ To improve problem-solving and data structures & algorithms skills.
 | [1297-maximum-number-of-occurrences-of-a-substring](https://github.com/Valartamizh/Leetcode_Problems/tree/main/1297-maximum-number-of-occurrences-of-a-substring/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Valartamizh/Leetcode_Problems/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Valartamizh/Leetcode_Problems/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Valartamizh/Leetcode_Problems/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Valartamizh/Leetcode_Problems/tree/main/1653-minimum-deletions-to-make-string-balanced/) | Medium |
 | [1657-determine-if-two-strings-are-close](https://github.com/Valartamizh/Leetcode_Problems/tree/main/1657-determine-if-two-strings-are-close/) | Medium |
 | [1763-longest-nice-substring](https://github.com/Valartamizh/Leetcode_Problems/tree/main/1763-longest-nice-substring/) | Easy |
@@ -236,6 +237,7 @@ To improve problem-solving and data structures & algorithms skills.
 | [0735-asteroid-collision](https://github.com/Valartamizh/Leetcode_Problems/tree/main/0735-asteroid-collision/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Valartamizh/Leetcode_Problems/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1096-brace-expansion-ii](https://github.com/Valartamizh/Leetcode_Problems/tree/main/1096-brace-expansion-ii/) | Hard |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Valartamizh/Leetcode_Problems/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Valartamizh/Leetcode_Problems/tree/main/1653-minimum-deletions-to-make-string-balanced/) | Medium |
 | [2000-reverse-prefix-of-word](https://github.com/Valartamizh/Leetcode_Problems/tree/main/2000-reverse-prefix-of-word/) | Easy |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Valartamizh/Leetcode_Problems/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
@@ -486,4 +488,8 @@ To improve problem-solving and data structures & algorithms skills.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3483-unique-3-digit-even-numbers](https://github.com/Valartamizh/Leetcode_Problems/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
+## Bracket Sequences
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Valartamizh/Leetcode_Problems/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 <!---LeetCode Topics End-->
