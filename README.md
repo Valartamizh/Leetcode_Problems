@@ -77,6 +77,7 @@ To improve problem-solving and data structures & algorithms skills.
 | [3483-unique-3-digit-even-numbers](https://github.com/Valartamizh/Leetcode_Problems/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Valartamizh/Leetcode_Problems/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Valartamizh/Leetcode_Problems/tree/main/3514-number-of-unique-xor-triplets-ii/) | Medium |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Valartamizh/Leetcode_Problems/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3689-maximum-total-subarray-value-i](https://github.com/Valartamizh/Leetcode_Problems/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
 | [3691-maximum-total-subarray-value-ii](https://github.com/Valartamizh/Leetcode_Problems/tree/main/3691-maximum-total-subarray-value-ii/) | Hard |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Valartamizh/Leetcode_Problems/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
@@ -305,6 +306,7 @@ To improve problem-solving and data structures & algorithms skills.
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Valartamizh/Leetcode_Problems/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Valartamizh/Leetcode_Problems/tree/main/3514-number-of-unique-xor-triplets-ii/) | Medium |
 | [3536-maximum-product-of-two-digits](https://github.com/Valartamizh/Leetcode_Problems/tree/main/3536-maximum-product-of-two-digits/) | Easy |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Valartamizh/Leetcode_Problems/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Valartamizh/Leetcode_Problems/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Valartamizh/Leetcode_Problems/tree/main/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Valartamizh/Leetcode_Problems/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
