@@ -74,6 +74,7 @@ To improve problem-solving and data structures & algorithms skills.
 | [3312-sorted-gcd-pair-queries](https://github.com/Valartamizh/Leetcode_Problems/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3346-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/Valartamizh/Leetcode_Problems/tree/main/3346-maximum-frequency-of-an-element-after-performing-operations-i/) | Medium |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Valartamizh/Leetcode_Problems/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
+| [3483-unique-3-digit-even-numbers](https://github.com/Valartamizh/Leetcode_Problems/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Valartamizh/Leetcode_Problems/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Valartamizh/Leetcode_Problems/tree/main/3514-number-of-unique-xor-triplets-ii/) | Medium |
 | [3689-maximum-total-subarray-value-i](https://github.com/Valartamizh/Leetcode_Problems/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
@@ -178,6 +179,7 @@ To improve problem-solving and data structures & algorithms skills.
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Valartamizh/Leetcode_Problems/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 | [3312-sorted-gcd-pair-queries](https://github.com/Valartamizh/Leetcode_Problems/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Valartamizh/Leetcode_Problems/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
+| [3483-unique-3-digit-even-numbers](https://github.com/Valartamizh/Leetcode_Problems/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/Valartamizh/Leetcode_Problems/tree/main/3712-sum-of-elements-with-frequency-divisible-by-k/) | Easy |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Valartamizh/Leetcode_Problems/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3731-find-missing-elements](https://github.com/Valartamizh/Leetcode_Problems/tree/main/3731-find-missing-elements/) | Easy |
@@ -439,6 +441,7 @@ To improve problem-solving and data structures & algorithms skills.
 | [1291-sequential-digits](https://github.com/Valartamizh/Leetcode_Problems/tree/main/1291-sequential-digits/) | Medium |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Valartamizh/Leetcode_Problems/tree/main/3010-divide-an-array-into-subarrays-with-minimum-cost-i/) | Easy |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Valartamizh/Leetcode_Problems/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
+| [3483-unique-3-digit-even-numbers](https://github.com/Valartamizh/Leetcode_Problems/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Valartamizh/Leetcode_Problems/tree/main/3499-maximize-active-section-with-trade-i/) | Medium |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Valartamizh/Leetcode_Problems/tree/main/3514-number-of-unique-xor-triplets-ii/) | Medium |
 ## Backtracking
@@ -475,4 +478,8 @@ To improve problem-solving and data structures & algorithms skills.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Valartamizh/Leetcode_Problems/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/Valartamizh/Leetcode_Problems/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 <!---LeetCode Topics End-->
