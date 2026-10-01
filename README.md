@@ -54,6 +54,7 @@ To improve problem-solving and data structures & algorithms skills.
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Valartamizh/Leetcode_Problems/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Valartamizh/Leetcode_Problems/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/Valartamizh/Leetcode_Problems/tree/main/1732-find-the-highest-altitude/) | Easy |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Valartamizh/Leetcode_Problems/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [1833-maximum-ice-cream-bars](https://github.com/Valartamizh/Leetcode_Problems/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Valartamizh/Leetcode_Problems/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [1920-build-array-from-permutation](https://github.com/Valartamizh/Leetcode_Problems/tree/main/1920-build-array-from-permutation/) | Easy |
@@ -171,6 +172,7 @@ To improve problem-solving and data structures & algorithms skills.
 | [1657-determine-if-two-strings-are-close](https://github.com/Valartamizh/Leetcode_Problems/tree/main/1657-determine-if-two-strings-are-close/) | Medium |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Valartamizh/Leetcode_Problems/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
 | [1763-longest-nice-substring](https://github.com/Valartamizh/Leetcode_Problems/tree/main/1763-longest-nice-substring/) | Easy |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Valartamizh/Leetcode_Problems/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [2206-divide-array-into-equal-pairs](https://github.com/Valartamizh/Leetcode_Problems/tree/main/2206-divide-array-into-equal-pairs/) | Easy |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Valartamizh/Leetcode_Problems/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
 | [2475-number-of-unequal-triplets-in-array](https://github.com/Valartamizh/Leetcode_Problems/tree/main/2475-number-of-unequal-triplets-in-array/) | Easy |
@@ -216,6 +218,7 @@ To improve problem-solving and data structures & algorithms skills.
 | [1657-determine-if-two-strings-are-close](https://github.com/Valartamizh/Leetcode_Problems/tree/main/1657-determine-if-two-strings-are-close/) | Medium |
 | [1763-longest-nice-substring](https://github.com/Valartamizh/Leetcode_Problems/tree/main/1763-longest-nice-substring/) | Easy |
 | [1768-merge-strings-alternately](https://github.com/Valartamizh/Leetcode_Problems/tree/main/1768-merge-strings-alternately/) | Easy |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Valartamizh/Leetcode_Problems/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Valartamizh/Leetcode_Problems/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [2000-reverse-prefix-of-word](https://github.com/Valartamizh/Leetcode_Problems/tree/main/2000-reverse-prefix-of-word/) | Easy |
 | [2027-minimum-moves-to-convert-string](https://github.com/Valartamizh/Leetcode_Problems/tree/main/2027-minimum-moves-to-convert-string/) | Easy |
