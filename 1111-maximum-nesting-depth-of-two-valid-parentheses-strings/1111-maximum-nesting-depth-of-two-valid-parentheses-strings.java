@@ -5,7 +5,6 @@ class Solution {
         
         for (int i = 0; i < n; i++)
             res[i] = (i ^ seq.charAt(i)) & 1;
-            
         return res;
     }
 }
