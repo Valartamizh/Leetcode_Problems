@@ -1,35 +1,11 @@
 class Solution {
     public boolean detectCapitalUse(String word) {
-        if(checkString1(word) || checkString2(word) || checkString3(word)){
-            return true;
-        }
-        return false;
-    }
-    public static boolean checkString1(String str){
-        for(char ch : str.toCharArray()){
-            if(!Character.isUpperCase(ch)){
-                return false;
+        int caps = 0;
+        for (int i = 0; i < word.length(); i++) {
+            if (Character.isUpperCase(word.charAt(i))) {
+                caps++;
             }
         }
-        return true;
-    }
-    public static boolean checkString2(String str){
-        for(char ch : str.toCharArray()){
-            if(!Character.isLowerCase(ch)){
-                return false;
-            }
-        }
-        return true;
-    }
-    public static boolean checkString3(String str){
-        if(Character.isUpperCase(str.charAt(0))){
-            for(int i=1; i<str.length(); i++){
-                if(!Character.isLowerCase(str.charAt(i))){
-                    return false;
-                }
-            }
-            return true;
-        }
-        return false;
+        return caps == word.length() || caps == 0 || (caps == 1 && Character.isUpperCase(word.charAt(0)));
     }
 }
