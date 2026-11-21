@@ -212,6 +212,7 @@ To improve problem-solving and data structures & algorithms skills.
 | [1096-brace-expansion-ii](https://github.com/Valartamizh/Leetcode_Problems/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1108-defanging-an-ip-address](https://github.com/Valartamizh/Leetcode_Problems/tree/main/1108-defanging-an-ip-address/) | Easy |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Valartamizh/Leetcode_Problems/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
+| [1143-longest-common-subsequence](https://github.com/Valartamizh/Leetcode_Problems/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1189-maximum-number-of-balloons](https://github.com/Valartamizh/Leetcode_Problems/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1297-maximum-number-of-occurrences-of-a-substring](https://github.com/Valartamizh/Leetcode_Problems/tree/main/1297-maximum-number-of-occurrences-of-a-substring/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Valartamizh/Leetcode_Problems/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
@@ -397,6 +398,7 @@ To improve problem-solving and data structures & algorithms skills.
 | [0120-triangle](https://github.com/Valartamizh/Leetcode_Problems/tree/main/0120-triangle/) | Medium |
 | [0392-is-subsequence](https://github.com/Valartamizh/Leetcode_Problems/tree/main/0392-is-subsequence/) | Easy |
 | [0877-stone-game](https://github.com/Valartamizh/Leetcode_Problems/tree/main/0877-stone-game/) | Medium |
+| [1143-longest-common-subsequence](https://github.com/Valartamizh/Leetcode_Problems/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Valartamizh/Leetcode_Problems/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Valartamizh/Leetcode_Problems/tree/main/1653-minimum-deletions-to-make-string-balanced/) | Medium |
 ## Sliding Window
@@ -506,4 +508,8 @@ To improve problem-solving and data structures & algorithms skills.
 | [0020-valid-parentheses](https://github.com/Valartamizh/Leetcode_Problems/tree/main/0020-valid-parentheses/) | Easy |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Valartamizh/Leetcode_Problems/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Valartamizh/Leetcode_Problems/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
+## Longest Common Subsequence
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1143-longest-common-subsequence](https://github.com/Valartamizh/Leetcode_Problems/tree/main/1143-longest-common-subsequence/) | Medium |
 <!---LeetCode Topics End-->
