@@ -228,6 +228,7 @@ To improve problem-solving and data structures & algorithms skills.
 | [2000-reverse-prefix-of-word](https://github.com/Valartamizh/Leetcode_Problems/tree/main/2000-reverse-prefix-of-word/) | Easy |
 | [2027-minimum-moves-to-convert-string](https://github.com/Valartamizh/Leetcode_Problems/tree/main/2027-minimum-moves-to-convert-string/) | Easy |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Valartamizh/Leetcode_Problems/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
+| [2129-capitalize-the-title](https://github.com/Valartamizh/Leetcode_Problems/tree/main/2129-capitalize-the-title/) | Easy |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/Valartamizh/Leetcode_Problems/tree/main/2243-calculate-digit-sum-of-a-string/) | Easy |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/Valartamizh/Leetcode_Problems/tree/main/2269-find-the-k-beauty-of-a-number/) | Easy |
 | [2490-circular-sentence](https://github.com/Valartamizh/Leetcode_Problems/tree/main/2490-circular-sentence/) | Easy |
