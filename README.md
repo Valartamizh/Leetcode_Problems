@@ -61,6 +61,7 @@ To improve problem-solving and data structures & algorithms skills.
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Valartamizh/Leetcode_Problems/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Valartamizh/Leetcode_Problems/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [1991-find-the-middle-index-in-array](https://github.com/Valartamizh/Leetcode_Problems/tree/main/1991-find-the-middle-index-in-array/) | Easy |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/Valartamizh/Leetcode_Problems/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Valartamizh/Leetcode_Problems/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2206-divide-array-into-equal-pairs](https://github.com/Valartamizh/Leetcode_Problems/tree/main/2206-divide-array-into-equal-pairs/) | Easy |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Valartamizh/Leetcode_Problems/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
@@ -226,6 +227,7 @@ To improve problem-solving and data structures & algorithms skills.
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Valartamizh/Leetcode_Problems/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [2000-reverse-prefix-of-word](https://github.com/Valartamizh/Leetcode_Problems/tree/main/2000-reverse-prefix-of-word/) | Easy |
 | [2027-minimum-moves-to-convert-string](https://github.com/Valartamizh/Leetcode_Problems/tree/main/2027-minimum-moves-to-convert-string/) | Easy |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/Valartamizh/Leetcode_Problems/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/Valartamizh/Leetcode_Problems/tree/main/2243-calculate-digit-sum-of-a-string/) | Easy |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/Valartamizh/Leetcode_Problems/tree/main/2269-find-the-k-beauty-of-a-number/) | Easy |
 | [2490-circular-sentence](https://github.com/Valartamizh/Leetcode_Problems/tree/main/2490-circular-sentence/) | Easy |
