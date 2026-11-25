@@ -25,6 +25,7 @@ To improve problem-solving and data structures & algorithms skills.
 | [0011-container-with-most-water](https://github.com/Valartamizh/Leetcode_Problems/tree/main/0011-container-with-most-water/) | Medium |
 | [0036-valid-sudoku](https://github.com/Valartamizh/Leetcode_Problems/tree/main/0036-valid-sudoku/) | Medium |
 | [0068-text-justification](https://github.com/Valartamizh/Leetcode_Problems/tree/main/0068-text-justification/) | Hard |
+| [0075-sort-colors](https://github.com/Valartamizh/Leetcode_Problems/tree/main/0075-sort-colors/) | Medium |
 | [0078-subsets](https://github.com/Valartamizh/Leetcode_Problems/tree/main/0078-subsets/) | Medium |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Valartamizh/Leetcode_Problems/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0120-triangle](https://github.com/Valartamizh/Leetcode_Problems/tree/main/0120-triangle/) | Medium |
@@ -96,6 +97,7 @@ To improve problem-solving and data structures & algorithms skills.
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Valartamizh/Leetcode_Problems/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0011-container-with-most-water](https://github.com/Valartamizh/Leetcode_Problems/tree/main/0011-container-with-most-water/) | Medium |
+| [0075-sort-colors](https://github.com/Valartamizh/Leetcode_Problems/tree/main/0075-sort-colors/) | Medium |
 | [0151-reverse-words-in-a-string](https://github.com/Valartamizh/Leetcode_Problems/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0283-move-zeroes](https://github.com/Valartamizh/Leetcode_Problems/tree/main/0283-move-zeroes/) | Easy |
 | [0345-reverse-vowels-of-a-string](https://github.com/Valartamizh/Leetcode_Problems/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
@@ -288,6 +290,7 @@ To improve problem-solving and data structures & algorithms skills.
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0075-sort-colors](https://github.com/Valartamizh/Leetcode_Problems/tree/main/0075-sort-colors/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/Valartamizh/Leetcode_Problems/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/Valartamizh/Leetcode_Problems/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [1096-brace-expansion-ii](https://github.com/Valartamizh/Leetcode_Problems/tree/main/1096-brace-expansion-ii/) | Hard |
@@ -515,4 +518,12 @@ To improve problem-solving and data structures & algorithms skills.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1143-longest-common-subsequence](https://github.com/Valartamizh/Leetcode_Problems/tree/main/1143-longest-common-subsequence/) | Medium |
+## Quicksort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0075-sort-colors](https://github.com/Valartamizh/Leetcode_Problems/tree/main/0075-sort-colors/) | Medium |
+## Bubble Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0075-sort-colors](https://github.com/Valartamizh/Leetcode_Problems/tree/main/0075-sort-colors/) | Medium |
 <!---LeetCode Topics End-->
