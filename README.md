@@ -69,6 +69,7 @@ To improve problem-solving and data structures & algorithms skills.
 | [2475-number-of-unequal-triplets-in-array](https://github.com/Valartamizh/Leetcode_Problems/tree/main/2475-number-of-unequal-triplets-in-array/) | Easy |
 | [2549-count-distinct-numbers-on-board](https://github.com/Valartamizh/Leetcode_Problems/tree/main/2549-count-distinct-numbers-on-board/) | Easy |
 | [2574-left-and-right-sum-differences](https://github.com/Valartamizh/Leetcode_Problems/tree/main/2574-left-and-right-sum-differences/) | Easy |
+| [2586-count-the-number-of-vowel-strings-in-range](https://github.com/Valartamizh/Leetcode_Problems/tree/main/2586-count-the-number-of-vowel-strings-in-range/) | Easy |
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/Valartamizh/Leetcode_Problems/tree/main/2859-sum-of-values-at-indices-with-k-set-bits/) | Easy |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Valartamizh/Leetcode_Problems/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Valartamizh/Leetcode_Problems/tree/main/3010-divide-an-array-into-subarrays-with-minimum-cost-i/) | Easy |
@@ -234,6 +235,7 @@ To improve problem-solving and data structures & algorithms skills.
 | [2243-calculate-digit-sum-of-a-string](https://github.com/Valartamizh/Leetcode_Problems/tree/main/2243-calculate-digit-sum-of-a-string/) | Easy |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/Valartamizh/Leetcode_Problems/tree/main/2269-find-the-k-beauty-of-a-number/) | Easy |
 | [2490-circular-sentence](https://github.com/Valartamizh/Leetcode_Problems/tree/main/2490-circular-sentence/) | Easy |
+| [2586-count-the-number-of-vowel-strings-in-range](https://github.com/Valartamizh/Leetcode_Problems/tree/main/2586-count-the-number-of-vowel-strings-in-range/) | Easy |
 | [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/Valartamizh/Leetcode_Problems/tree/main/2914-minimum-number-of-changes-to-make-binary-string-beautiful/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Valartamizh/Leetcode_Problems/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Valartamizh/Leetcode_Problems/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
@@ -283,6 +285,7 @@ To improve problem-solving and data structures & algorithms skills.
 | [1603-design-parking-system](https://github.com/Valartamizh/Leetcode_Problems/tree/main/1603-design-parking-system/) | Easy |
 | [1657-determine-if-two-strings-are-close](https://github.com/Valartamizh/Leetcode_Problems/tree/main/1657-determine-if-two-strings-are-close/) | Medium |
 | [2206-divide-array-into-equal-pairs](https://github.com/Valartamizh/Leetcode_Problems/tree/main/2206-divide-array-into-equal-pairs/) | Easy |
+| [2586-count-the-number-of-vowel-strings-in-range](https://github.com/Valartamizh/Leetcode_Problems/tree/main/2586-count-the-number-of-vowel-strings-in-range/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Valartamizh/Leetcode_Problems/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3312-sorted-gcd-pair-queries](https://github.com/Valartamizh/Leetcode_Problems/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/Valartamizh/Leetcode_Problems/tree/main/3712-sum-of-elements-with-frequency-divisible-by-k/) | Easy |
